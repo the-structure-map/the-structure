@@ -27,7 +27,7 @@ async function init() {
 
   const footer = document.getElementById('footer-version');
   if (footer && graphData.meta) {
-    footer.textContent = `v${graphData.meta.version} · ${graphData.meta.last_updated}`;
+    footer.innerHTML = `v${graphData.meta.version} · ${graphData.meta.last_updated} · <a href="https://github.com/the-structure-map/the-structure" target="_blank" rel="noopener noreferrer">GitHub</a>`;
   }
 }
 
