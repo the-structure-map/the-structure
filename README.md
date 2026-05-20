@@ -6,6 +6,10 @@
 
 ---
 
+[![The Structure — a navigable causal map of the forces shaping working-class life](assets/preview.png)](https://the-structure-map.github.io/the-structure/)
+
+---
+
 The Structure is an interactive map of the forces shaping working-class life in the United States. It is a directed causal graph: 34 nodes across 5 layers, from root forces (wealth concentration, financialization, regulatory capture) down through economic mechanisms, institutional collapse, social fracture, and human cost.
 
 The goal is not to simplify the system. The goal is to make it navigable. A person can enter through their own experience — debt, job loss, isolation, political anger — and trace upstream to its structural causes. They can see who else shares those causes across lines that would normally separate them.
@@ -136,4 +140,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Code (everything except `data/graph.json`) is licensed under the [MIT License](LICENSE).
 
-Map content (`data/graph.json`) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE-CONTENT). If you adapt the map, you must attribute the source and release your version under the same license.
+Map content (`data/graph.json`) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](data/LICENSE). If you adapt the map, you must attribute the source and release your version under the same license.

@@ -77,4 +77,4 @@ The map is built on a few non-negotiable principles:
 
 ## License
 
-By contributing, you agree that your contributions are licensed under the same terms as the rest of the project: MIT for code, CC BY-SA 4.0 for content changes to `data/graph.json`.
+By contributing, you agree that your contributions are licensed under the same terms as the rest of the project: MIT for code, CC BY-SA 4.0 for content changes to `data/graph.json` (see `data/LICENSE`).
