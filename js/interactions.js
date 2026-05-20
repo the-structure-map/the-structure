@@ -363,16 +363,24 @@ function selectNode(nodeId) {
   clearGraphFocusCursor();
 
   cy.batch(() => {
-    cy.elements().removeClass('selected dimmed highlighted also-look-at hover graph-cursor');
+    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at hover graph-cursor');
     cy.nodes().addClass('dimmed');
     cy.edges().addClass('dimmed');
 
     const node = cy.$('#' + nodeId);
     node.removeClass('dimmed').addClass('selected');
 
-    const connected = node.connectedEdges();
-    connected.removeClass('dimmed').addClass('highlighted');
-    connected.connectedNodes().removeClass('dimmed');
+    node.connectedEdges().forEach(edge => {
+      edge.removeClass('dimmed');
+      if (edge.data('type') === 'solidarity') {
+        edge.addClass('highlighted-solidarity');
+      } else if (edge.target().id() === nodeId) {
+        edge.addClass('highlighted-inbound');
+      } else {
+        edge.addClass('highlighted-outbound');
+      }
+    });
+    node.connectedEdges().connectedNodes().removeClass('dimmed');
   });
 
   const node = cy.$('#' + nodeId);
@@ -394,7 +402,7 @@ function deselectAll() {
   const cy = getCy();
   clearGraphFocusCursor();
   cy.batch(() => {
-    cy.elements().removeClass('selected dimmed highlighted also-look-at graph-cursor');
+    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at graph-cursor');
   });
 }
 
@@ -402,16 +410,24 @@ function navigateFromFyp(primaryNodeId, alsoLookAt) {
   const cy = getCy();
 
   cy.batch(() => {
-    cy.elements().removeClass('selected dimmed highlighted also-look-at hover');
+    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at hover');
     cy.nodes().addClass('dimmed');
     cy.edges().addClass('dimmed');
 
     const node = cy.$('#' + primaryNodeId);
     node.removeClass('dimmed').addClass('selected');
 
-    const connected = node.connectedEdges();
-    connected.removeClass('dimmed').addClass('highlighted');
-    connected.connectedNodes().removeClass('dimmed');
+    node.connectedEdges().forEach(edge => {
+      edge.removeClass('dimmed');
+      if (edge.data('type') === 'solidarity') {
+        edge.addClass('highlighted-solidarity');
+      } else if (edge.target().id() === primaryNodeId) {
+        edge.addClass('highlighted-inbound');
+      } else {
+        edge.addClass('highlighted-outbound');
+      }
+    });
+    node.connectedEdges().connectedNodes().removeClass('dimmed');
 
     for (const id of alsoLookAt) {
       cy.$('#' + id).removeClass('dimmed').addClass('also-look-at');

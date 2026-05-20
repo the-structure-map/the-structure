@@ -87,7 +87,8 @@ function buildElements(data, lang) {
         affected_groups: node.affected_groups,
         upstream_causes: node.upstream_causes,
         downstream_effects: node.downstream_effects,
-        solidarity_connections: node.solidarity_connections
+        solidarity_connections: node.solidarity_connections,
+        amplifies: node.amplifies || []
       }
     });
   }
@@ -169,6 +170,20 @@ function buildStyles() {
       }
     },
     {
+      selector: 'edge[type = "amplifies"]',
+      style: {
+        width: 1.5,
+        'line-color': '#7A6FA8',
+        'target-arrow-color': '#7A6FA8',
+        'target-arrow-shape': 'vee',
+        'arrow-scale': 1.0,
+        'curve-style': 'bezier',
+        'line-style': 'dashed',
+        'line-dash-pattern': [6, 3],
+        opacity: 0.65
+      }
+    },
+    {
       selector: 'node.hover',
       style: {
         'border-width': 2,
@@ -207,10 +222,29 @@ function buildStyles() {
       style: { opacity: 0.1 }
     },
     {
-      selector: 'edge.highlighted',
+      selector: 'edge.highlighted-inbound',
       style: {
-        'line-color': '#6A7A8A',
-        'target-arrow-color': '#6A7A8A',
+        'line-color': '#E8B84B',
+        'target-arrow-color': '#E8B84B',
+        'source-arrow-color': '#E8B84B',
+        opacity: 1,
+        width: 2.5
+      }
+    },
+    {
+      selector: 'edge.highlighted-outbound',
+      style: {
+        'line-color': '#4A8FA8',
+        'target-arrow-color': '#4A8FA8',
+        opacity: 1,
+        width: 2.5
+      }
+    },
+    {
+      selector: 'edge.highlighted-solidarity',
+      style: {
+        'line-color': '#7A6FA8',
+        'source-arrow-color': '#7A6FA8',
         opacity: 1,
         width: 2.5
       }
@@ -293,6 +327,7 @@ export function initGraph(data, lang) {
   });
 
   cy.fit(undefined, window.innerWidth < 900 ? 20 : 40);
+  cy.minZoom(cy.zoom() / 1.5); // allow 50% more zoom-out beyond the fit level
 
   return cy;
 }

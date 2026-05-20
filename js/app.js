@@ -104,6 +104,9 @@ function validate(d) {
     for (const id of n.solidarity_connections) {
       if (!nodeIds.has(id)) warn(`Unknown solidarity_connections ID in ${n.id}`, id);
     }
+    for (const id of (n.amplifies || [])) {
+      if (!nodeIds.has(id)) warn(`Unknown amplifies ID in ${n.id}`, id);
+    }
   }
 
   for (const e of edges) {

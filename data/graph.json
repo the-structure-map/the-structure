@@ -26,7 +26,8 @@
       ],
       "solidarity_connections": [
         "1B"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "1B",
@@ -48,7 +49,8 @@
       ],
       "solidarity_connections": [
         "1A"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "1C",
@@ -68,7 +70,8 @@
         "3D",
         "2I"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "1D",
@@ -87,7 +90,8 @@
       ],
       "solidarity_connections": [
         "2H"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "1E",
@@ -105,7 +109,8 @@
         "4B",
         "3H"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "1F",
@@ -122,7 +127,8 @@
         "2C",
         "3C"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "2A",
@@ -154,7 +160,8 @@
         "4F",
         "3G"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "2B",
@@ -178,7 +185,8 @@
       ],
       "solidarity_connections": [
         "2I"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "2C",
@@ -200,7 +208,8 @@
         "4A",
         "4F"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "2D",
@@ -222,7 +231,8 @@
         "5E",
         "4F"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "2E",
@@ -241,7 +251,8 @@
         "2F",
         "5B"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "2F",
@@ -262,7 +273,8 @@
       "downstream_effects": [
         "5B"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "2G",
@@ -281,7 +293,8 @@
         "3C",
         "3H"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "2H",
@@ -297,14 +310,16 @@
         "1C"
       ],
       "downstream_effects": [
-        "2A",
-        "2C",
-        "2E",
-        "2F",
         "5E"
       ],
       "solidarity_connections": [
         "1D"
+      ],
+      "amplifies": [
+        "2A",
+        "2C",
+        "2E",
+        "2F"
       ]
     },
     {
@@ -327,7 +342,8 @@
       ],
       "solidarity_connections": [
         "2B"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "3A",
@@ -347,7 +363,8 @@
         "2A",
         "4B"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "3B",
@@ -367,7 +384,8 @@
         "5A",
         "3F"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "3C",
@@ -393,7 +411,8 @@
       ],
       "solidarity_connections": [
         "3D"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "3D",
@@ -415,7 +434,8 @@
       ],
       "solidarity_connections": [
         "3C"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "3E",
@@ -435,7 +455,8 @@
         "4A",
         "4D"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "3F",
@@ -456,7 +477,8 @@
         "4E",
         "5D"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "3G",
@@ -475,7 +497,8 @@
         "4A",
         "4B"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "3H",
@@ -496,7 +519,8 @@
         "4D",
         "4E"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "4A",
@@ -523,7 +547,8 @@
       ],
       "solidarity_connections": [
         "4B"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "4B",
@@ -550,7 +575,8 @@
       ],
       "solidarity_connections": [
         "4A"
-      ]
+      ],
+      "amplifies": []
     },
     {
       "id": "4C",
@@ -573,7 +599,8 @@
         "5D",
         "4F"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "4D",
@@ -595,7 +622,8 @@
         "4E",
         "5D"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "4E",
@@ -618,7 +646,8 @@
       "downstream_effects": [
         "5D"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "4F",
@@ -641,7 +670,8 @@
         "4B",
         "5E"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "5A",
@@ -662,7 +692,8 @@
         "5B",
         "5D"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "5B",
@@ -684,7 +715,8 @@
       "downstream_effects": [
         "5C"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "5C",
@@ -703,7 +735,8 @@
         "5B"
       ],
       "downstream_effects": [],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "5D",
@@ -724,7 +757,8 @@
         "3F"
       ],
       "downstream_effects": [],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     },
     {
       "id": "5E",
@@ -747,7 +781,8 @@
       "downstream_effects": [
         "5A"
       ],
-      "solidarity_connections": []
+      "solidarity_connections": [],
+      "amplifies": []
     }
   ],
   "edges": [
@@ -983,25 +1018,25 @@
       "id": "e-2H-2A",
       "source": "2H",
       "target": "2A",
-      "type": "causal"
+      "type": "amplifies"
     },
     {
       "id": "e-2H-2C",
       "source": "2H",
       "target": "2C",
-      "type": "causal"
+      "type": "amplifies"
     },
     {
       "id": "e-2H-2E",
       "source": "2H",
       "target": "2E",
-      "type": "causal"
+      "type": "amplifies"
     },
     {
       "id": "e-2H-2F",
       "source": "2H",
       "target": "2F",
-      "type": "causal"
+      "type": "amplifies"
     },
     {
       "id": "e-2H-5E",
@@ -1196,9 +1231,9 @@
       "type": "solidarity"
     },
     {
-      "id": "e-solidarity-2B-3B",
+      "id": "e-solidarity-2B-2I",
       "source": "2B",
-      "target": "3B",
+      "target": "2I",
       "type": "solidarity"
     },
     {
@@ -1206,6 +1241,186 @@
       "source": "1A",
       "target": "1B",
       "type": "solidarity"
+    },
+    {
+      "id": "e-solidarity-1D-2H",
+      "source": "1D",
+      "target": "2H",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-2I-2A",
+      "source": "2I",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2I-4E",
+      "source": "2I",
+      "target": "4E",
+      "type": "causal"
+    },
+    {
+      "id": "e-1A-2I",
+      "source": "1A",
+      "target": "2I",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-2I",
+      "source": "1C",
+      "target": "2I",
+      "type": "causal"
+    },
+    {
+      "id": "e-1D-2I",
+      "source": "1D",
+      "target": "2I",
+      "type": "causal"
+    },
+    {
+      "id": "e-3F-4A",
+      "source": "3F",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3F-4E",
+      "source": "3F",
+      "target": "4E",
+      "type": "causal"
+    },
+    {
+      "id": "e-3F-5D",
+      "source": "3F",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-3F",
+      "source": "2A",
+      "target": "3F",
+      "type": "causal"
+    },
+    {
+      "id": "e-3B-3F",
+      "source": "3B",
+      "target": "3F",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-3F",
+      "source": "3C",
+      "target": "3F",
+      "type": "causal"
+    },
+    {
+      "id": "e-3G-4A",
+      "source": "3G",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3G-4B",
+      "source": "3G",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-3G",
+      "source": "2A",
+      "target": "3G",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-3G",
+      "source": "3C",
+      "target": "3G",
+      "type": "causal"
+    },
+    {
+      "id": "e-3H-3D",
+      "source": "3H",
+      "target": "3D",
+      "type": "causal"
+    },
+    {
+      "id": "e-3H-4D",
+      "source": "3H",
+      "target": "4D",
+      "type": "causal"
+    },
+    {
+      "id": "e-3H-4E",
+      "source": "3H",
+      "target": "4E",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-3H",
+      "source": "1B",
+      "target": "3H",
+      "type": "causal"
+    },
+    {
+      "id": "e-1E-3H",
+      "source": "1E",
+      "target": "3H",
+      "type": "causal"
+    },
+    {
+      "id": "e-2G-3H",
+      "source": "2G",
+      "target": "3H",
+      "type": "causal"
+    },
+    {
+      "id": "e-4F-4A",
+      "source": "4F",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-4F-4B",
+      "source": "4F",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-4F-5E",
+      "source": "4F",
+      "target": "5E",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-4F",
+      "source": "2A",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2B-4F",
+      "source": "2B",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2C-4F",
+      "source": "2C",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2D-4F",
+      "source": "2D",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-4C-4F",
+      "source": "4C",
+      "target": "4F",
+      "type": "causal"
     }
   ],
   "feedback_loops": [

@@ -145,7 +145,13 @@ function renderPanel(nodeId, lang) {
     html += buildLinkSection('This Leads To', node.downstream_effects, data, lang);
   }
 
-  // 9. Solidarity Connections
+  // 9. What This Amplifies
+  if (node.amplifies && node.amplifies.length > 0) {
+    html += buildLinkSection('What This Amplifies', node.amplifies, data, lang);
+    html += `<p class="panel-amplifies-note">(intensifies, does not directly cause)</p>`;
+  }
+
+  // 10. Solidarity Connections
   if (node.solidarity_connections && node.solidarity_connections.length > 0) {
     const heading = lang === 'analytical' ? 'Solidarity Connections' : 'Who else is here';
     html += buildLinkSection(heading, node.solidarity_connections, data, lang);

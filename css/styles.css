@@ -442,12 +442,13 @@ body.panel-open.sidebar-open #cy {
   left: 0;
   right: 0;
   bottom: 0;
+  height: 60vh;
   background-color: var(--color-panel-bg);
   border-top: 1px solid var(--color-panel-border);
   border-radius: 12px 12px 0 0;
   z-index: var(--z-mobile-sheet);
   transform: translateY(100%);
-  transition: transform 220ms ease-out;
+  transition: transform 220ms ease-out, height 220ms ease-out;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -458,11 +459,12 @@ body.panel-open.sidebar-open #cy {
 }
 
 #mobile-sheet.open {
-  transform: translateY(40%);
+  transform: translateY(0);
 }
 
 #mobile-sheet.expanded {
-  transform: translateY(10%);
+  height: 90vh;
+  transform: translateY(0);
 }
 
 #mobile-sheet-handle {
@@ -624,6 +626,14 @@ body.panel-open.sidebar-open #cy {
   border-color: var(--color-accent);
 }
 
+.panel-amplifies-note {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  font-style: italic;
+  margin-top: -8px;
+  margin-bottom: var(--space-md);
+}
+
 /* === Feedback Callout === */
 #feedback-callout {
   position: fixed;
@@ -712,6 +722,32 @@ body.panel-open.sidebar-open #cy {
   #layer-legend {
     display: none;
   }
+}
+
+/* === Scrollbars === */
+#mobile-sheet-content::-webkit-scrollbar,
+#detail-panel::-webkit-scrollbar,
+#fyp-sidebar::-webkit-scrollbar {
+  width: 4px;
+}
+
+#mobile-sheet-content::-webkit-scrollbar-track,
+#detail-panel::-webkit-scrollbar-track,
+#fyp-sidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#mobile-sheet-content::-webkit-scrollbar-thumb,
+#detail-panel::-webkit-scrollbar-thumb,
+#fyp-sidebar::-webkit-scrollbar-thumb {
+  background-color: var(--color-panel-border);
+  border-radius: 2px;
+}
+
+#mobile-sheet-content::-webkit-scrollbar-thumb:hover,
+#detail-panel::-webkit-scrollbar-thumb:hover,
+#fyp-sidebar::-webkit-scrollbar-thumb:hover {
+  background-color: var(--color-text-disabled);
 }
 
 /* Mobile sheet close button */
