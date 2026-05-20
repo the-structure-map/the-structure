@@ -493,6 +493,23 @@ body.panel-open.sidebar-open #cy {
   pointer-events: none;
 }
 
+#site-footer a {
+  pointer-events: auto;
+}
+
+.footer-github-link {
+  display: inline-flex;
+  align-items: center;
+  color: var(--color-text-disabled);
+  opacity: 0.6;
+  transition: opacity 150ms ease;
+  vertical-align: middle;
+}
+
+.footer-github-link:hover {
+  opacity: 1;
+}
+
 /* === Tooltip === */
 #node-tooltip {
   position: fixed;
