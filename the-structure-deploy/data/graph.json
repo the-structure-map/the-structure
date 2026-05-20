@@ -1,0 +1,1494 @@
+{
+  "meta": {
+    "title": "The Structure",
+    "descriptor": "Why things are the way they are.",
+    "version": "1.1.0",
+    "last_updated": "2026-05-19",
+    "default_language": "experiential"
+  },
+  "nodes": [
+    {
+      "id": "1A",
+      "layer": 1,
+      "layer_name": "Root Forces",
+      "label_analytical": "Wealth & Power Concentration",
+      "label_experiential": "The rules are written by people with money",
+      "body_analytical": "## What it is\n\nSince the 1970s, wealth has steadily flowed upward. The top of the wealth distribution now controls more than the entire middle class combined. This is not accidental — it is the cumulative result of policy choices, legal structures, and market dynamics that systematically favor capital over labor.\n\n## How it works\n\nWealth buys political influence through lobbying, campaign finance, and the revolving door between industry and government. Political influence shapes policy in favor of further wealth concentration. The feedback loop is self-reinforcing and accelerating.\n\n## What it directly causes\n\n- Regulatory Capture (1C) — concentrated wealth purchases political outcomes\n- Wage Stagnation (2A) — labor's share of productivity gains is suppressed\n- Housing as Investment Vehicle (2C) — asset inflation benefits owners at renters' expense\n- Racial Wealth Gap as Structural Amplifier (2H) — historical policy choices concentrated wealth-building opportunity by race\n\n## Who it affects\n\nEveryone outside the small group at the very top of the wealth distribution — regardless of race, gender, or political affiliation.",
+      "body_experiential": "## You didn't lose a fair game\n\nThe gap between what the wealthy have and what everyone else has isn't the result of harder work or smarter choices at the top. Since the 1970s, the rules have been steadily rewritten — through lobbying, campaign finance, and policy — to send more and more of what the economy produces upward.\n\nIt's not a conspiracy. It's a feedback loop. Money buys influence. Influence shapes rules. Better rules produce more money. Repeat.\n\n## What this creates\n\nWhen wealth concentrates this completely, it reaches into everything: what gets regulated and what doesn't, whose wages rise and whose stagnate, who can afford a home and who can't. The system isn't broken in the way it looks broken — it's running on the logic it was built to run on.\n\n## What brought you here\n\nThis is a root force. Nothing is upstream of it — it's where many of the other pressures in this map begin.",
+      "affected_groups": "Everyone outside the small group at the very top of the wealth distribution — regardless of race, gender, or political affiliation.",
+      "upstream_causes": [],
+      "downstream_effects": [
+        "1C",
+        "2A",
+        "2C",
+        "2H",
+        "2I"
+      ],
+      "solidarity_connections": [
+        "1B"
+      ]
+    },
+    {
+      "id": "1B",
+      "layer": 1,
+      "layer_name": "Root Forces",
+      "label_analytical": "Financialization of the Economy",
+      "label_experiential": "Everything has been turned into a financial instrument",
+      "body_analytical": "## What it is\n\nBeginning in the 1970s–80s, the dominant logic of business shifted from building and producing to extracting value from existing assets. Private equity, hedge funds, and the doctrine of shareholder primacy — the idea that a business exists first to maximize returns to its owners, above any obligation to workers, customers, or community — turned companies, hospitals, housing, and services into financial instruments to be optimized for short-term return.\n\n## How it works\n\nCompanies are acquired, stripped of assets, loaded with debt, and sold. Workers are a cost to minimize, not a community to sustain. Short-term return on investment trumps long-term investment in people or infrastructure. Entire sectors — healthcare, housing, media, food — are now run as extraction operations.\n\n## What it directly causes\n\n- Wage Stagnation (2A) — labor is a cost to cut, not a value to grow\n- Job Precarity (2B) — stable employment is replaced with contract and gig arrangements\n- Housing Unaffordability (2C) — homes become investment vehicles rather than shelter\n- Healthcare as Financial Burden (2E) — hospitals and insurers optimized for profit\n- Community Anchor Collapse (3C) — local employers stripped and liquidated\n\n## Who it affects\n\nAny worker whose employer, landlord, hospital, or insurer is owned by private equity or operates under shareholder-primacy logic — which is now most of the working class.",
+      "body_experiential": "## When the company stopped caring\n\nThere was a moment — maybe you felt it — when the business you worked for, or the hospital you went to, or the building you rented started acting differently. Less like a place that provided something, more like something being squeezed for every drop.\n\nThat shift has a name: financialization. It's what happens when the people who own things stop caring about what those things do and start caring only about what they return.\n\n## What this looks like\n\nA private equity firm buys a hospital chain, cuts staff, raises prices, and sells it in five years. A hedge fund buys a grocery chain and closes the 'underperforming' stores in low-income neighborhoods. A property management company replaces your local landlord and raises the rent sharply overnight.\n\nYou're not dealing with a person anymore. You're dealing with a spreadsheet.\n\n## What this leads to\n\nWhen everything is optimized for extraction, wages get cut, jobs get cut, communities get cut. The costs don't disappear — they get shifted onto you.",
+      "affected_groups": "Workers whose employers, landlords, hospitals, or insurers operate under private equity or shareholder-primacy logic — the majority of the working class.",
+      "upstream_causes": [],
+      "downstream_effects": [
+        "2A",
+        "2B",
+        "2C",
+        "2E",
+        "3C",
+        "3H"
+      ],
+      "solidarity_connections": [
+        "1A"
+      ]
+    },
+    {
+      "id": "1C",
+      "layer": 1,
+      "layer_name": "Root Forces",
+      "label_analytical": "Regulatory Capture & Political Corruption",
+      "label_experiential": "The people meant to protect you work for the companies now",
+      "body_analytical": "## What it is\n\nRegulatory capture is the process by which the industries regulations are meant to govern end up controlling the regulatory bodies and political systems that govern them. It is structural, not conspiratorial — it is the predictable outcome of allowing concentrated wealth to participate in the political process without limit.\n\n## How it works\n\nCorporate lobbying shapes legislation before it passes. Campaign finance — especially after Citizens United, the 2010 U.S. Supreme Court ruling that removed limits on independent political spending by corporations and other organizations — gives concentrated wealth outsized electoral power. The revolving door between industry and government agencies normalizes conflicts of interest. Both major parties receive substantial donor-class funding, creating structural alignment regardless of stated values.\n\n## What it directly causes\n\n- Corporate Monopoly Power (2G) — antitrust non-enforcement allows consolidation\n- Decline of Worker Power (3A) — labor law shaped to weaken organizing\n- Political Disenfranchisement (3D) — democracy becomes unresponsive to non-donors\n\n## Who it affects\n\nEveryone who relies on government to constrain corporate power — which is nearly all working people.",
+      "body_experiential": "## Why the referees are crooked\n\nThere are supposed to be rules. Rules about how much companies can charge, how they can treat workers, what they can put in food and water and medicine. Those rules exist. The problem is who writes them, and who enforces them.\n\nWhen the people writing the rules are funded by the industries the rules are supposed to govern — when the head of the EPA used to lobby for oil companies, when the pharmaceutical executive becomes the FDA commissioner — the rules get written for the industry, not for you.\n\n## This isn't a party problem\n\nBoth major parties draw heavily from the same donor class. The specific priorities differ. The structural dependence on money from concentrated wealth does not. This is why certain things never change regardless of which party wins.\n\n## What this leads to\n\nWhen regulatory capture is complete, monopolies go unchallenged, workers can't organize effectively, and the political system stops responding to anyone without money. The feeling that your vote doesn't matter isn't paranoia — it's pattern recognition.",
+      "affected_groups": "Everyone who relies on government to constrain corporate power on their behalf — nearly all working people.",
+      "upstream_causes": [
+        "1A"
+      ],
+      "downstream_effects": [
+        "2G",
+        "3A",
+        "3D",
+        "2I"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "1D",
+      "layer": 1,
+      "layer_name": "Root Forces",
+      "label_analytical": "Globalization Without Safeguards",
+      "label_experiential": "The jobs went overseas and nothing replaced them",
+      "body_analytical": "## What it is\n\nTrade liberalization and global supply chain integration that created enormous wealth at the top while devastating specific communities and classes below. The gains from trade were real; they were simply distributed almost entirely upward.\n\n## How it works\n\nTrade agreements prioritized corporate IP and financial access over labor protections. Manufacturing moved to lower-wage countries; profits stayed with the ownership class. Affected workers received inadequate or no transition support. Import competition suppressed wages even in surviving industries.\n\n## What it directly causes\n\n- Wage Stagnation (2A) — labor market competition across borders suppresses wages\n- Community Anchor Collapse (3C) — factory towns lost their economic base with no replacement\n- The cross-border labor market (2I) — workers in different countries set against each other instead of the system that profits from the gap\n\n## Who it affects\n\nConcentrated in working-class manufacturing communities — disproportionately but not exclusively white, rural, Midwest and South. Also affects garment workers, electronics workers, and many immigrant-heavy industries.",
+      "body_experiential": "## When the factory closed\n\nSomeone made a decision. Not you — someone who owned the company, or signed the trade deal, or sat on the board. They decided that making the product somewhere else would cost less. They were right. The savings went to shareholders. The jobs did not come back.\n\nYour town, your industry, your neighbors' livelihoods — those were the cost of someone else's profit margin.\n\n## What they promised and didn't deliver\n\nTrade deals were sold with promises of transition support, retraining, new industries moving in. For most devastated communities, those promises were not kept at anything close to the scale needed. What arrived instead, for many places, was a long silence — and the slow unraveling of everything the work had once held together.\n\n## What this leads to\n\nWhen the economic anchor of a community disappears, everything built around it starts to go too — the local businesses, the tax base, the young people, the sense of a future.",
+      "affected_groups": "Working-class manufacturing communities, particularly in the Rust Belt, Midwest, and South. Also garment, electronics, and other export-competing industries.",
+      "upstream_causes": [],
+      "downstream_effects": [
+        "2A",
+        "3C",
+        "2I"
+      ],
+      "solidarity_connections": [
+        "2H"
+      ]
+    },
+    {
+      "id": "1E",
+      "layer": 1,
+      "layer_name": "Root Forces",
+      "label_analytical": "Technological Disruption Without Social Adaptation",
+      "label_experiential": "Technology is eliminating jobs faster than society can respond",
+      "body_analytical": "## What it is\n\nAutomation, platform economies, and AI are restructuring labor markets faster than social or political systems can adapt. The gains from this restructuring flow to owners of technology; the losses fall on displaced workers.\n\n## How it works\n\nRoutine jobs — cognitive and physical — are automated away. Platform and gig economy models replace stable employment with precarious contract work. Productivity gains accrue to capital, not labor. No meaningful policy response (retraining at scale, income support, worker ownership of automation) has materialized.\n\n## What it directly causes\n\n- Job Precarity (2B) — gig and contract work replaces stable employment\n- Wage Stagnation (2A) — automation suppresses wages in affected sectors\n- Identity & Meaning Crisis (4B) — workers whose roles disappear lose more than income\n\n## Who it affects\n\nBroad — but hits hardest in transportation, logistics, retail, clerical, and service work. Disproportionate impact on workers without college degrees.",
+      "body_experiential": "## Your job isn't going to come back\n\nSometimes it's a machine. Sometimes it's an app. Sometimes it's a piece of software that does in ten minutes what used to take a person all day. The productivity is real. The question is who gets it.\n\nThe answer, so far, is: not you.\n\n## The problem isn't the technology\n\nTechnology replacing labor has happened before. The question is always: what happens to the people whose work disappears? In past transitions there were — imperfect, uneven, often painful — social adaptations: new industries, union contracts, government programs.\n\nThis time, the adaptation hasn't come. The wealth generated by automation has accumulated at the top, and the people displaced by it have been largely left to figure it out.\n\n## What this leads to\n\nWhen work disappears and nothing replaces it — not the job, not the income, not the sense of purpose — the damage goes beyond a paycheck. It reaches into who people understand themselves to be.",
+      "affected_groups": "Workers in transportation, logistics, retail, clerical, and service sectors. Disproportionate impact on those without college degrees.",
+      "upstream_causes": [],
+      "downstream_effects": [
+        "2A",
+        "2B",
+        "4B",
+        "3H"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "1F",
+      "layer": 1,
+      "layer_name": "Root Forces",
+      "label_analytical": "Climate Disruption Without Just Transition",
+      "label_experiential": "The climate is changing and working people are paying the price",
+      "body_analytical": "## What it is\n\nClimate change is restructuring where people can live, what work exists, and which communities have a future — with adaptation costs falling disproportionately on working people and gains from the clean energy transition flowing largely to capital. This follows the same structural logic as technological disruption: disruption without social adaptation, with gains accruing upward.\n\n## How it works\n\nFossil fuel industry contraction disrupts entire regional economies without replacement. Climate-driven housing pressure increases in vulnerable regions. Agricultural disruption threatens rural livelihoods. The green transition creates new industries — but not necessarily for displaced workers in devastated communities. Regulatory capture (1C) blocks meaningful climate adaptation and just transition policy.\n\n## What it directly causes\n\n- Job Precarity (2B) — fossil fuel and agricultural community employment at risk\n- Housing Unaffordability (2C) — climate-exposed housing markets under pressure\n- Community Anchor Collapse (3C) — energy-dependent communities losing their base\n\n## Who it affects\n\nFossil fuel communities (Appalachia, Gulf Coast, oil patch), agricultural communities, and housing markets in climate-exposed regions. Disproportionate impact on working-class communities with fewer resources to relocate or adapt.",
+      "body_experiential": "## When the work your region was built on goes away\n\nSome regions were built around a single kind of work — coal, oil, gas, the land. That work is being phased out or made unstable, and the places that depended on it face an uncertain future with no clear replacement lined up. Layer on the physical disruption people can already feel — floods, fires, droughts, heat that shuts down outdoor work — and the ground is shifting in both senses at once.\n\nThe people with the least resources are bearing the most risk. The people with the most resources are, in many cases, profiting from the transition.\n\n## What a just transition would look like\n\nThe energy transition will happen — the question is who carries the cost and who captures the benefit. A just transition would mean real support for workers and communities displaced by fossil fuel decline: direct employment, retraining with income replacement, investment in the communities that powered the 20th century economy.\n\nThat transition has not materialized at meaningful scale.\n\n## What this leads to\n\nWhen whole industries contract without replacement, communities collapse and people lose not just jobs but the economic foundation that held everything together.",
+      "affected_groups": "Fossil fuel workers and communities (Appalachia, Gulf Coast, oil patch), agricultural workers, and residents of climate-exposed housing markets.",
+      "upstream_causes": [],
+      "downstream_effects": [
+        "2B",
+        "2C",
+        "3C"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "2A",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Wage Stagnation",
+      "label_experiential": "My wages haven't gone up in years",
+      "body_analytical": "## What it is\n\nSince the 1970s, worker productivity has risen substantially while median wages have not kept pace. The gap between what workers produce and what they're paid is the single largest driver of wealth concentration.\n\n## Upstream causes\n\nWealth Concentration (1A), Financialization (1B), Regulatory Capture (1C), Globalization Without Safeguards (1D), Technological Disruption (1E), and Decline of Worker Power (3A) all suppress wages through different mechanisms — suppressing labor's bargaining power, enabling offshoring, weakening unions, and allowing monopoly employers to set wages.\n\n## What it directly causes\n\n- Inability to afford housing, healthcare, childcare (2C, 2D, 2E)\n- Debt becomes a necessity rather than a choice (2F)\n- Multi-job precarity as workers scramble to cover costs (2B)\n- Relationship and family formation stress (4A, 4B)\n- Social isolation from overwork and financial anxiety (4A)",
+      "body_experiential": "## You're not imagining it\n\nYou work more, produce more, and yet your paycheck buys less than it did ten or twenty years ago. That's not a personal failure — it's a structural fact. Since the 1970s, productivity has climbed steadily. Wages haven't kept pace.\n\nThe gap between what you produce and what you're paid is one of the biggest engines of wealth concentration in the country.\n\n## What brought you here\n\nThis is the downstream result of decades of policy choices: weakened unions, trade deals that moved jobs overseas, financial systems that reward capital over labor, and regulations written by the industries they were meant to constrain.\n\n## What this leads to\n\n- You can't afford rent, healthcare, or childcare on what you make\n- Debt becomes a necessity, not a choice\n- You work multiple jobs just to stay even\n- The stress bleeds into every relationship",
+      "affected_groups": "Workers across all sectors whose wages have not kept pace with productivity or inflation — the large majority of the workforce.",
+      "upstream_causes": [
+        "1A",
+        "1B",
+        "1C",
+        "1D",
+        "1E",
+        "3A",
+        "2I"
+      ],
+      "downstream_effects": [
+        "2B",
+        "2C",
+        "2D",
+        "2E",
+        "2F",
+        "4A",
+        "4B",
+        "3F",
+        "4F",
+        "3G"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "2B",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Job Precarity & the Gig Economy",
+      "label_experiential": "My job feels unstable — no benefits, no guarantee",
+      "body_analytical": "## What it is\n\nThe erosion of stable, long-term employment with benefits in favor of contract work, gig work, and at-will arrangements that transfer economic risk from employer to worker.\n\n## Upstream causes\n\nFinancialization (1B) — companies optimize for labor flexibility; Technological Disruption (1E) — platforms replace employment with contract arrangements; Climate Disruption (1F) — economic instability in affected regions; Decline of Worker Power (3A) — unions protected stable employment with benefits.\n\n## What it directly causes\n\n- Inability to plan for the future — housing, family, retirement become impossible to commit to\n- Ineligibility for benefits — healthcare and paid leave are tied to stable employment\n- Deepens debt dependence (2F) — income volatility forces borrowing\n- Identity crisis when work is unstable (4B) — purpose and dignity tied to stable role disappear",
+      "body_experiential": "## When your job stopped being a job\n\nSomewhere along the way, the deal changed. Full-time with benefits became part-time without. Contract. Gig. 'Independent contractor.' The language shifted to make it sound like freedom. What it actually is: the company got to keep all the upside and hand you all the risk.\n\nNo benefits. No sick days. No guarantee you'll have work next month. You're one bad week from a crisis, and that's considered normal now.\n\n## What brought you here\n\nThis isn't how all employment was always structured. Stable employment with benefits was the product of union power, regulation, and social norms that have been systematically eroded over decades.\n\n## What this leads to\n\nWhen work is unstable, everything built on top of it is too — housing, family formation, retirement planning. The insecurity doesn't stay at work. It comes home.",
+      "affected_groups": "Gig workers, contract employees, part-time workers without benefits, and any worker in industries restructured by private equity or platform economies.",
+      "upstream_causes": [
+        "1B",
+        "1E",
+        "1F",
+        "3A"
+      ],
+      "downstream_effects": [
+        "2F",
+        "4B",
+        "4F"
+      ],
+      "solidarity_connections": [
+        "2I"
+      ]
+    },
+    {
+      "id": "2C",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Housing Unaffordability",
+      "label_experiential": "I can't afford a place to live",
+      "body_analytical": "## What it is\n\nHousing has been transformed from a social good (shelter) into a financial asset (investment vehicle), producing a structural mismatch between supply, affordability, and human need.\n\n## How it works\n\nInstitutional investors — including private equity firms — buy single-family homes at scale. Zoning laws in desirable areas block new supply. Low interest rates in the 2010s inflated asset values, benefiting owners and pricing out buyers. Rent increases are unconstrained in most markets. Remote work pressure expanded the affordability crisis geographically.\n\n## Upstream causes\n\nWealth Concentration (1A), Financialization (1B), Regulatory Capture (1C), Climate Disruption (1F), and Wage Stagnation (2A) all feed housing unaffordability through different channels.\n\n## What it directly causes\n\n- Housing insecurity and homelessness\n- Geographic immobility — people cannot move for better opportunities\n- Generational wealth gap between owners and renters\n- Family formation delays (4A) — can't afford to start a family\n- Extreme commutes leading to exhaustion and isolation",
+      "body_experiential": "## Home used to mean something different\n\nA home was where you lived. You paid rent or a mortgage, it was a significant cost but it was manageable, and the assumption was that over time you could build toward something stable.\n\nThat deal is broken. In most cities and many smaller communities, housing costs have detached from wages so completely that 'affordable housing' has become a contradiction in terms. The housing stock has been turned into an investment class — bought by funds, held for appreciation, rented at whatever the market will bear.\n\n## Who did this\n\nThis didn't happen by accident. Decades of regulatory capture meant zoning laws protected existing owners over new supply. Financialization meant institutional investors entered the housing market as a profit-extraction vehicle. The combination locked out a generation of renters from the primary wealth-building mechanism of the American middle class.\n\n## What this leads to\n\nWhen you can't afford to live near work, you can't move for opportunity. When you can't buy, you can't build the equity that cushions economic shocks. When housing eats an enormous share of every paycheck, everything else — savings, healthcare, childcare — has to give.",
+      "affected_groups": "Renters in most urban and suburban markets, first-time homebuyers, workers in climate-exposed regions, and communities near major employment centers.",
+      "upstream_causes": [
+        "1A",
+        "1B",
+        "1C",
+        "1F",
+        "2A"
+      ],
+      "downstream_effects": [
+        "4A",
+        "4F"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "2D",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Childcare & Education as Cost Crises",
+      "label_experiential": "I can't afford to raise kids or get ahead",
+      "body_analytical": "## What it is\n\nTwo essential inputs to economic participation (childcare) and economic mobility (education) have become luxury goods that push families into debt or poverty.\n\n## How it works\n\nChildcare costs in most cities now exceed rent. The cost of a college degree has risen dramatically faster than wages over the past four decades, transforming education from a path to mobility into a source of long-term debt. Total student loan debt now runs into the trillions. Defunding of public education concentrates quality access by zip code and wealth.\n\n## Upstream causes\n\nFinancialization (1B) — private equity in for-profit education; Regulatory Capture (1C) — subsidy structures that benefit institutions over students; Wage Stagnation (2A) — childcare workers underpaid, cost still unaffordable.\n\n## What it directly causes\n\n- Student debt trap (2F) — education debt becomes lifelong burden\n- Women forced out of the workforce or into poverty-level jobs when childcare is unaffordable\n- Family formation becomes economically impossible for many (4A)\n- Collapsing social mobility (5E) — quality education gated by wealth",
+      "body_experiential": "## The cost of getting ahead\n\nYou were told education was the path. Work hard, get the degree, build a better life. Nobody mentioned the years of debt waiting at the other end — or that the degree might not pay off what it cost, or that the job that requires the degree might not pay enough to service the loan.\n\nAnd if you have kids, or want to: childcare costs in most cities now exceed rent. The math doesn't work. Either someone stops working, or you go into debt, or you don't have kids.\n\n## What brought you here\n\nPublic investment in education declined. Private actors moved in and raised prices. Regulatory capture ensured the subsidies went to institutions, not students. The result is a system where the cost of participating in the economy — getting educated, having children — has become a crisis.\n\n## What this leads to\n\nWhen families can't afford childcare, women often leave the workforce. When student debt is a lifelong burden, economic risk-taking becomes impossible. When quality education tracks with wealth, mobility becomes statistical fiction.",
+      "affected_groups": "Student loan borrowers, parents of young children, women whose workforce participation depends on affordable childcare, and families in underfunded school districts.",
+      "upstream_causes": [
+        "1B",
+        "1C",
+        "2A"
+      ],
+      "downstream_effects": [
+        "2F",
+        "4A",
+        "5E",
+        "4F"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "2E",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Healthcare as Financial Catastrophe",
+      "label_experiential": "One medical bill could wipe me out",
+      "body_analytical": "## What it is\n\nThe U.S. healthcare system is the most expensive in the developed world while delivering below-average outcomes by most measures. Medical debt is a leading cause of personal bankruptcy. Healthcare insecurity is a constant low-level dread for the working class.\n\n## Upstream causes\n\nFinancialization (1B) — hospitals and insurers optimized for shareholder return; Regulatory Capture (1C) — pharmaceutical and insurance industry lobbying shapes policy.\n\n## What it directly causes\n\n- Debt dependence (2F) — medical bills cause financial catastrophe for millions\n- Job lock — staying in bad jobs to keep health insurance\n- Chronic stress and anxiety (5B) — healthcare insecurity as ongoing psychological burden\n- Untreated conditions that worsen over time\n- Catastrophic financial events from ordinary illness\n\n## Who it affects\n\nAnyone without employer-sponsored insurance or sufficient savings to absorb medical costs — the majority of the working class.",
+      "body_experiential": "## The one bill that changes everything\n\nYou get sick. Or your kid does. Or there's an accident. Nothing catastrophic by medical standards — a broken bone, an emergency room visit, a diagnosis that needs follow-up. But then the bills arrive, and it turns out that one ordinary health event can cost more than several months of income.\n\nThis is not a personal failure. It is the designed outcome of a healthcare system that operates as a financial extraction mechanism rather than a public health service.\n\n## What brought you here\n\nThe U.S. spends more on healthcare per person than any other wealthy country and gets worse outcomes on most measures. The money goes somewhere — to administrative overhead, to insurer profits, to pharmaceutical pricing, to private equity-owned hospital chains. Not to care.\n\n## What this leads to\n\nMedical debt is the single largest driver of personal bankruptcy in the U.S. It forces people to stay in jobs they hate to keep insurance. It produces a constant background anxiety that doesn't go away — the knowledge that any health event could be a financial catastrophe.",
+      "affected_groups": "Uninsured and underinsured workers, anyone with a chronic condition, and working-class families without savings to absorb medical costs.",
+      "upstream_causes": [
+        "1B",
+        "1C"
+      ],
+      "downstream_effects": [
+        "2F",
+        "5B"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "2F",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Debt as a Mechanism of Control",
+      "label_experiential": "I'm drowning in debt and I can't see a way out",
+      "body_analytical": "## What it is\n\nWhen wages don't cover basic needs and costs of necessities keep rising, debt is not a choice — it is a structural necessity. Student debt, medical debt, credit card debt used for groceries, payday loans — these are the visible price of a system where wages have not kept up with costs.\n\n## Upstream causes\n\nWage Stagnation (2A), Job Precarity (2B), Housing Unaffordability (2C), Childcare and Education Costs (2D), and Healthcare Costs (2E) all funnel people into debt as the only available buffer against unaffordable costs.\n\n## What it directly causes\n\n- Financial fragility — one unexpected cost can trigger a cascade\n- Reduced ability to quit bad jobs, leave bad relationships, take risks\n- Psychological burden of financial precarity (5B)\n- Wealth transfer from working class to financial sector\n- The debt itself feeds back into Wealth Concentration (1A) — interest payments are transfers from borrowers to lenders\n\n## Who it affects\n\nThe large majority of American workers who live paycheck to paycheck; the tens of millions carrying student loan debt; the many millions more with medical debt in collections.",
+      "body_experiential": "## When debt becomes the only option\n\nYou didn't go into debt because you were reckless. You went into debt because the rent was due and the paycheck didn't cover it. Because the car needed fixing and the savings account was empty. Because the hospital bill arrived and there was no other way.\n\nDebt used to be a choice. For most working people now, it's a condition — the predictable result of wages that don't cover costs that keep rising.\n\n## What debt does to you\n\nDebt is not just a financial condition. It's a control mechanism. When you owe money — on student loans, on credit cards, on medical bills — you can't afford to lose your job. You can't afford to get sick. You can't afford to walk away from a bad situation. The debt keeps you in place.\n\nThe interest you pay is a transfer of wealth from you to the financial sector. Multiply that across tens of millions of people and it's one of the largest engines of wealth concentration operating today.\n\n## What brought you here\n\nEvery economic mechanism above this one — stagnant wages, precarious work, unaffordable housing, healthcare, childcare — funneled you here. Debt is what fills the gap.",
+      "affected_groups": "The large majority of American workers living paycheck to paycheck; tens of millions of student loan borrowers; millions more carrying medical debt.",
+      "upstream_causes": [
+        "2A",
+        "2B",
+        "2C",
+        "2D",
+        "2E"
+      ],
+      "downstream_effects": [
+        "5B"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "2G",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Corporate Monopoly Power",
+      "label_experiential": "One company owns my landlord, my employer, and my grocery store",
+      "body_analytical": "## What it is\n\nDecades of lax antitrust enforcement have allowed unprecedented consolidation across nearly every sector. One company may now be your landlord, your employer, your grocery store, your insurer, and your internet provider.\n\n## Upstream causes\n\nRegulatory Capture (1C) — antitrust non-enforcement is a direct product of regulatory capture by corporate interests.\n\n## What it directly causes\n\n- Wage Stagnation (2A) — monopsony power (fewer employers competing for workers) suppresses wages\n- Community Anchor Collapse (3C) — local businesses and employers displaced by consolidated national players\n\n## Who it affects\n\nWorkers in highly consolidated industries (healthcare, grocery, media, telecom, meatpacking), renters in corporate-landlord markets, and communities where local businesses have been displaced.",
+      "body_experiential": "## When competition disappeared\n\nThere used to be more choices. More employers, more landlords, more stores, more insurers. That competition kept prices from getting too high and wages from getting too low — not because companies were kind, but because they had to compete.\n\nThat competition has been systematically eliminated. Through mergers, acquisitions, and the quiet abandonment of antitrust enforcement, a handful of giant companies now control most of what you buy, most of where you work, most of where you live.\n\n## What monopoly power does to your life\n\nWhen there's only one major employer in your region, they don't have to offer competitive wages — where else would you go? When your landlord is a national investment firm managing thousands of units, rent negotiation is a fantasy. When the hospital in your area is part of a chain that bought out all the local practices, you take the price or you go without.\n\n## What brought you here\n\nThis didn't happen because the market decided — it happened because the people who write the rules decided not to enforce the ones that prevented it.",
+      "affected_groups": "Workers in consolidated industries, renters in corporate-landlord markets, consumers in regions with limited competition.",
+      "upstream_causes": [
+        "1C"
+      ],
+      "downstream_effects": [
+        "2A",
+        "3C",
+        "3H"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "2H",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Racial Wealth Gap as Structural Amplifier",
+      "label_experiential": "My family started further back and the gap never closed",
+      "body_analytical": "## What it is\n\nDeliberate exclusion of Black Americans — and other groups — from mid-20th-century wealth-building mechanisms, combined with active destruction of existing Black wealth through redlining, urban renewal, and discriminatory lending, created a structural racial wealth gap that compounds today.\n\n## How it works\n\nFamilies without inherited wealth have no buffer against economic shocks. Housing wealth — the primary wealth-building mechanism for the American middle class — was structurally unavailable to Black families for decades. Discriminatory lending and housing practices continue in more subtle forms. The gap amplifies every other Layer 2 mechanism: the same wage stagnation hits harder without a cushion; the same housing unaffordability blocks wealth-building more severely.\n\n## Upstream causes\n\nWealth Concentration (1A) and Regulatory Capture (1C) — specific historical policy choices built and maintained the gap.\n\n## What it directly causes\n\n- Amplifies the impact of Wage Stagnation (2A)\n- Deepens Housing Unaffordability effects (2C)\n- Increases Healthcare financial burden (2E)\n- Concentrates Debt Dependence (2F)\n- Steeper intergenerational poverty transmission (5E)\n\n## Note on complexity\n\nShared upstream causes do not erase real differences in how those causes land. Both are true simultaneously: the structural forces of wealth concentration affect all working people; the racial amplification through specific historical policy is a distinct and additional mechanism.",
+      "body_experiential": "## Starting the race in a different place\n\nTwo families can work equally hard for equally long and still end up in very different places — because of where they started, not what they did. For generations, specific government policies decided which families could build wealth and which could not.\n\nFor generations, specific policies — the GI Bill administered by segregated local institutions, federally-backed mortgages explicitly denied to Black families in redlined neighborhoods, urban renewal programs that demolished established Black neighborhoods in the name of redevelopment — prevented Black Americans from accessing the primary wealth-building mechanisms available to white working-class families.\n\nThat gap didn't close. It compounded. Wealth passed down (or not) across generations, shaping every economic shock that followed.\n\n## This isn't about culture or work ethic\n\nThe racial wealth gap is the product of specific, documented policies — not of any group's characteristics. The Federal Reserve's own data shows the gap clearly. The history of how it was built is documented in detail.\n\n## What this means today\n\nWhen the same economic forces hit different communities, they don't hit equally. The same wage stagnation hits harder without family wealth as a cushion. The same housing unaffordability matters differently when homeownership was denied for two generations. Every structural pressure in this map is amplified by the absence of accumulated wealth.",
+      "affected_groups": "Black Americans most severely. Similar structural dynamics affect Native American communities, Latino communities, and immigrant communities without generational U.S. wealth accumulation.",
+      "upstream_causes": [
+        "1A",
+        "1C"
+      ],
+      "downstream_effects": [
+        "2A",
+        "2C",
+        "2E",
+        "2F",
+        "5E"
+      ],
+      "solidarity_connections": [
+        "1D"
+      ]
+    },
+    {
+      "id": "2I",
+      "layer": 2,
+      "layer_name": "Economic Mechanisms",
+      "label_analytical": "Immigration & the Cross-Border Labor Market",
+      "label_experiential": "Workers are made to compete instead of organize",
+      "body_analytical": "## What it is\n\nThe movement of labor across borders is not a force of nature — it is shaped by structural choices about who is allowed to work, under what protections, and to whose benefit. A labor market organized for low cost and high flexibility produces predictable results: downward pressure on wages in some sectors for native-born workers, and a population of immigrant workers with limited protection, limited pathway, and limited bargaining power. The gains from both flow upward.\n\n## How it works\n\nDemand for cheap, flexible labor comes from the ownership class. Enforcement is structured to fall on workers far more than on the employers who depend on unauthorized labor. Native-born workers in affected sectors experience real wage and bargaining pressure. Immigrant workers experience exploitation they cannot safely contest. Each group's precarity is used, implicitly, to discipline the other — and the competition between them is far more visible than the structure that arranges it.\n\n## Upstream causes\n\nWealth & Power Concentration (1A) — the donor-class interest in abundant low-cost labor; Regulatory Capture (1C) — enforcement aimed at workers rather than employers; Globalization Without Safeguards (1D) — the same logic that moved jobs across borders moves workers across them.\n\n## What it directly causes\n\n- Wage Stagnation (2A) — labor-market competition suppresses wages in affected sectors\n- Tribalism as Substitute Belonging (4E) — cross-group competition becomes a ready-made line of conflict\n\n## Who it affects\n\nNative-born workers in sectors exposed to wage competition, and immigrant workers navigating a system that wants their labor without obligation to them. Two groups with opposite-seeming positions and a shared upstream.",
+      "body_experiential": "## The pressure you feel is real\n\nIf you are a native-born worker, you may have watched the kind of job your parent could raise a family on become a job that no longer pays that way — and watched the people doing it change. That pressure is real. It is not bigotry to notice that the bottom has been falling out of certain kinds of work.\n\nIf you are an immigrant, you know the other side of it: doing the work no one else will, for less than it is worth, with no real ability to push back, because pushing back risks everything. That precarity is real too.\n\n## Who arranged the competition\n\nHere is the part that is easy to miss when the two of you are looking at each other. Neither of you set the price of that labor. Neither of you wrote the rules about who gets protected and who gets enforced against. Someone benefits from having a large supply of workers who can be paid little and can't safely organize — and someone benefits more when the workers in question are too busy resenting each other to notice the arrangement.\n\n## What this leads to\n\nWhen two groups of workers are made to compete for the same shrinking floor, the competition is loud and the arrangement behind it is quiet. The wage stays low. The bargaining power stays gone. And the most natural-feeling explanation — that the other worker is the problem — is also the most convenient one for everyone above both of you.",
+      "affected_groups": "Native-born workers in sectors exposed to wage competition, and immigrant workers in low-protection, low-bargaining-power positions — two groups whose precarity is structurally linked.",
+      "upstream_causes": [
+        "1A",
+        "1C",
+        "1D"
+      ],
+      "downstream_effects": [
+        "2A",
+        "4E"
+      ],
+      "solidarity_connections": [
+        "2B"
+      ]
+    },
+    {
+      "id": "3A",
+      "layer": 3,
+      "layer_name": "Institutional Collapse",
+      "label_analytical": "Decline of Worker Power (Unions)",
+      "label_experiential": "Nobody is fighting for workers anymore",
+      "body_analytical": "## What it is\n\nUnion membership covered a far larger share of the workforce in the mid-20th century than it holds today, when it reaches only a small portion of private sector workers. Unions were the primary democratic mechanism for translating economic growth into worker wages, benefits, and conditions.\n\n## Upstream causes\n\nFinancialization (1B) — PE-owned companies aggressively union-bust; Regulatory Capture (1C) — labor law shaped to weaken organizing rights; Globalization (1D) — manufacturing unions devastated by offshoring.\n\n## What it directly causes\n\n- Wage Stagnation (2A) — the mechanism that negotiated wages away is gone\n- Loss of worker political voice — unions were a countervailing force to corporate political power\n- Loss of community institutions — union halls, mutual aid networks, social events\n- Identity and dignity crisis (4B) — the union card was part of working-class identity\n\n## Who it affects\n\nAll workers in non-union industries, who lack the collective bargaining that established wage and benefit standards even for non-union workers historically.",
+      "body_experiential": "## What you lost when unions went away\n\nWhatever you make of unions today, they were once the main way workers got a share of what they produced. The 40-hour week, the weekend, employer-sponsored healthcare, pensions, the minimum wage — most of what made stable working-class life possible came from union power, directly or indirectly.\n\nUnion membership in the private sector has collapsed from a large share of workers in the mid-20th century to a small fraction today. That's not because workers stopped wanting those things. It's because the legal and economic environment was systematically reshaped to make organizing almost impossible.\n\n## What went with them\n\nIt wasn't just wages. Union halls were community centers. Unions organized the mutual aid networks, the social events, the sense that workers had a collective identity and a collective voice. When they went away, those things went with them.\n\n## What this leads to\n\nWithout unions, wages stagnate because there's no mechanism to capture productivity gains. Without collective bargaining, workers face employers individually. Without the political counterweight of organized labor, the donor class goes unchallenged.",
+      "affected_groups": "All private sector workers, particularly in manufacturing, retail, healthcare, and service industries where union decline has been steepest.",
+      "upstream_causes": [
+        "1B",
+        "1C",
+        "1D"
+      ],
+      "downstream_effects": [
+        "2A",
+        "4B"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "3B",
+      "layer": 3,
+      "layer_name": "Institutional Collapse",
+      "label_analytical": "Erosion of the Safety Net",
+      "label_experiential": "When things fall apart, there's nothing to catch you",
+      "body_analytical": "## What it is\n\nWelfare reform, stagnant minimum wage, inadequate unemployment insurance, and gutted social services have lowered the floor to the point where a single crisis — job loss, illness, divorce — can be catastrophic.\n\n## Upstream causes\n\nWealth Concentration (1A) — tax policy shifts burden from capital to labor, reducing public revenue; Regulatory Capture (1C) — donors who don't use the safety net fund politicians who cut it.\n\n## What it directly causes\n\n- Financial fragility and debt (2F) — no cushion means any shock requires borrowing\n- Inability to take economic risks — can't start a business, leave a bad job, return to school\n- Concentration of suffering in already-stressed communities\n- Learned Helplessness (5A) — when the system repeatedly fails to catch people, they stop expecting it to\n\n## Who it affects\n\nAnyone who loses a job, faces a health crisis, experiences a divorce, or otherwise needs a temporary safety net — which is a large fraction of the working class at some point in their lives.",
+      "body_experiential": "## The floor used to be higher\n\nThe safety net — unemployment insurance, welfare, food assistance, disability support — was never generous. But it was enough to prevent a bad stretch from becoming a permanent catastrophe for most people. That's no longer reliably true.\n\nBenefits have been cut, restricted, and means-tested to the point of inaccessibility. Unemployment insurance covers a smaller fraction of lost wages and expires faster than job searches typically conclude. Social services in poor communities have been gutted by decades of budget cuts.\n\n## What it means to fall\n\nWhen there's no safety net, the cost of taking any risk becomes existential. You can't quit a job that's destroying you if losing it means losing everything. You can't start a business if a bad month means you can't feed your family. You can't go back to school if there's no income support while you do.\n\nThe safety net didn't just protect people from disasters. It made other things possible — the risk-taking, the mobility, the confidence that getting a break wouldn't mean permanent ruin.\n\n## What this leads to\n\nWhen people repeatedly reach for help that isn't there, they stop reaching. That's not apathy — it's a learned response to a system that has failed them.",
+      "affected_groups": "Anyone who experiences job loss, health crisis, divorce, or other income disruption — a large fraction of the working class at some point in their lives.",
+      "upstream_causes": [
+        "1A",
+        "1C"
+      ],
+      "downstream_effects": [
+        "2F",
+        "5A",
+        "3F"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "3C",
+      "layer": 3,
+      "layer_name": "Institutional Collapse",
+      "label_analytical": "Community Anchor Collapse",
+      "label_experiential": "My town is hollowed out — the jobs and life are gone",
+      "body_analytical": "## What it is\n\nThe combination of deindustrialization, corporate consolidation, and big-box and e-commerce retail has eliminated the local economic anchors — factories, main street businesses, local employers — that once sustained working-class communities.\n\n## Upstream causes\n\nFinancialization (1B) — private equity liquidates local employers; Globalization (1D) — manufacturing moves offshore; Climate Disruption (1F) — energy and agricultural community disruption; Corporate Monopoly Power (2G) — national chains displace local businesses.\n\n## What it directly causes\n\n- Brain drain as young people leave communities with no future\n- Loss of local tax base, declining schools and infrastructure\n- Disappearance of Third Places (3E) — bars, clubs, gathering spots close\n- Decline of Religious & Communal Life (3G) — congregations age out and close\n- Collapse of Public Safety & Order (3F) — thinned local capacity and concentrated hardship\n- Social isolation and loneliness (4A)\n- Conditions that enable addiction and deaths of despair (5C)\n\n## Who it affects\n\nWorking-class communities in deindustrialized regions — Rust Belt, Appalachian, and rural communities across the country.",
+      "body_experiential": "## When the center doesn't hold\n\nThe factory closed. The main street store closed when Walmart arrived. Walmart closed when Amazon arrived. The hospital got bought and the ER hours got cut. The church congregation aged out and the building sat empty.\n\nEach of these was an event. Together they were a process — the slow removal of the things that made a community a community. The anchor institutions that gave people a reason to stay, a paycheck that stayed local, a place to belong.\n\n## What's left\n\nWhen the economic anchors leave, so does the tax base, which means the schools get worse and the roads don't get fixed, which means fewer people want to stay, which means the tax base shrinks further. It's a loop that communities have very few tools to break out of on their own.\n\nThe young people who can leave, do. What's left is often older, poorer, more isolated — and more susceptible to the despair that follows loss of purpose and community.\n\n## What this leads to\n\nCommunity anchor collapse is one of the deepest sources on this map — a lot of what shows up later as loneliness, lost purpose, or substance use traces back to a place that lost its center. None of it is a verdict on the people who stayed. It is what happens to anyone when the ground under a community is pulled out — and it is happening to communities that have almost nothing else in common, for the same handful of reasons.",
+      "affected_groups": "Residents of deindustrialized towns, rural communities, and regions where the major employer has closed or left.",
+      "upstream_causes": [
+        "1B",
+        "1D",
+        "1F",
+        "2G"
+      ],
+      "downstream_effects": [
+        "3E",
+        "4A",
+        "5C",
+        "3F",
+        "3G"
+      ],
+      "solidarity_connections": [
+        "3D"
+      ]
+    },
+    {
+      "id": "3D",
+      "layer": 3,
+      "layer_name": "Institutional Collapse",
+      "label_analytical": "Political Disenfranchisement",
+      "label_experiential": "Voting doesn't seem to change anything",
+      "body_analytical": "## What it is\n\nWhen both major parties consistently deliver policies that benefit donor-class interests regardless of electoral outcomes, non-participation is not apathy — it is a rational response to a system that has stopped being responsive to ordinary people.\n\n## Upstream causes\n\nWealth Concentration (1A) — political power follows economic power; Regulatory Capture (1C) — the political system is structured to respond to donors, not voters.\n\n## What it directly causes\n\n- Withdrawal from civic and political life\n- Learned Helplessness (5A) — if the system can't be changed, why engage?\n- Openness to anti-democratic 'strong leader' alternatives (5D) — when democratic process seems futile, authoritarian alternatives gain appeal\n\n## Who it affects\n\nWorking-class voters across the political spectrum whose interests are systematically deprioritized relative to donor-class interests.",
+      "body_experiential": "## When democracy stops working\n\nYou vote. Things don't change — or they change in ways that don't seem to help you. You vote again. Same result. At some point, the conclusion that suggests itself is: the voting doesn't matter.\n\nThis isn't apathy. It's pattern recognition. When both major parties draw their primary funding from the same donor class, the range of outcomes they're willing to deliver stays within a bandwidth that donor class finds acceptable. Outside that bandwidth, change doesn't happen — regardless of what voters choose.\n\n## This is structural, not a conspiracy\n\nNo secret coordination is required. Campaign finance creates structural dependencies. The revolving door creates structural incentives. The result is structural alignment regardless of stated values or party affiliation.\n\n## The same shrug, different places\n\nThe feeling that no one in power is listening shows up in places that look nothing alike — the emptied-out factory town and the written-off city neighborhood, the rural county and the inner-city district. Different scenery, same experience: you were told you mattered at election time, and then the decisions got made somewhere else, by people funded by someone else. The places that feel most ignored often have more in common with each other than with anyone claiming to speak for them.\n\n## What this leads to\n\nWhen the legitimate channel for changing things doesn't work, people either give up entirely or start looking for other channels. Neither outcome is good for democracy. Disengagement protects the status quo. Rage-fueled radicalization offers dangerous alternatives.",
+      "affected_groups": "Working-class voters across the political spectrum whose policy priorities are systematically deprioritized relative to donor interests.",
+      "upstream_causes": [
+        "1A",
+        "1C",
+        "3H"
+      ],
+      "downstream_effects": [
+        "5A",
+        "5D"
+      ],
+      "solidarity_connections": [
+        "3C"
+      ]
+    },
+    {
+      "id": "3E",
+      "layer": 3,
+      "layer_name": "Institutional Collapse",
+      "label_analytical": "Disappearance of Third Places",
+      "label_experiential": "There's nowhere left to just be with other people",
+      "body_analytical": "## What it is\n\n'Third places' — spaces outside home and work where community forms naturally — have largely disappeared from working-class life. Bars, churches, union halls, civic clubs, bowling leagues, community centers once provided the infrastructure of informal social connection.\n\n## Upstream causes\n\nGlobalization (1D) — community disruption; Wage Stagnation (2A) — no time or money for third places; Community Anchor Collapse (3C) — economic decline closes gathering spaces.\n\n## What it directly causes\n\n- Social isolation and loneliness (4A) — no infrastructure for connection\n- Loss of informal mutual aid networks\n- Loss of spaces where cross-class and cross-political relationships form\n- Vulnerability to online community substitutes (4D) — when physical community disappears, digital fills the void\n\n## Who it affects\n\nWorking-class communities where third places have been lost to economic decline, particularly in deindustrialized and rural areas.",
+      "body_experiential": "## Where did everyone go?\n\nThere used to be places to go. Not work, not home — somewhere in between. The bar where your neighbors drank. The union hall where you knew everyone by name. The bowling league, the church basement, the civic club. Places where you showed up as a person, not as an employee or a consumer.\n\nMost of those places are gone now, or going. Economic decline closed the bars and the civic clubs. The union halls closed when the unions went away. Churches have been aging out in working-class communities for decades. The bowling league disbanded when everyone got too busy or too broke.\n\n## What third places actually did\n\nThey weren't just social spaces. They were the infrastructure of community — the places where you knew your neighbors, asked for help, offered it, argued about local decisions, formed friendships across lines of difference. That infrastructure didn't feel important until it was gone.\n\n## What this leads to\n\nWhen physical third places disappear, people don't stop needing belonging. They find it online — in communities that are often more extreme, more isolated, and more algorithmically optimized for engagement than for human wellbeing.",
+      "affected_groups": "Working-class communities, particularly in deindustrialized and rural areas where economic decline has eliminated the economic base for third places.",
+      "upstream_causes": [
+        "1D",
+        "2A",
+        "3C"
+      ],
+      "downstream_effects": [
+        "4A",
+        "4D"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "3F",
+      "layer": 3,
+      "layer_name": "Institutional Collapse",
+      "label_analytical": "Collapse of Public Safety & Order",
+      "label_experiential": "It doesn't feel safe or orderly where I live anymore",
+      "body_analytical": "## What it is\n\nIn the places that absorbed the most economic devastation, the everyday infrastructure of safety and order has thinned: stretched or distrusted policing, overwhelmed courts and services, the visible presence of untreated mental illness and addiction in public space, and a widespread sense that ordinary rules go unenforced. This is concentrated, not universal — and it is structural, not a reflection of any group's character.\n\n## How it works\n\nThe long deinstitutionalization of mental health care moved acute suffering into public space without funding the alternative. The addiction epidemic became physical and visible. Concentrated poverty, community anchor collapse, and a frayed safety net produced the conditions in which disorder grows. Local capacity — police legitimacy, court throughput, social services — was hollowed out at the same time. The result is a felt loss of order that residents experience long before it appears in any policy debate.\n\n## Upstream causes\n\nWage Stagnation (2A) — concentrated economic hardship; Erosion of the Safety Net (3B) — fewer functioning services to catch people; Community Anchor Collapse (3C) — the institutions that once held places together are gone.\n\n## What it directly causes\n\n- Isolation & Loneliness (4A) — people withdraw from public space they no longer trust\n- Tribalism as Substitute Belonging (4E) — fear sharpens the line between us and them\n- Political Radicalization (5D) — disorder becomes a powerful organizing grievance\n\n## Who it affects\n\nResidents of economically devastated neighborhoods and towns across the urban/rural divide — including immigrant and low-income communities, who often live closest to the disorder and have the fewest resources to escape it.",
+      "body_experiential": "## When the ordinary rules stop holding\n\nThere is a particular kind of stress that comes from not feeling safe in the place you live. The package taken off the porch. The part of town you no longer walk through. The sense that something has come undone — that the basic agreement about how people behave in shared space is not holding the way it used to.\n\nNoticing this is not paranoia, and it is not bigotry. It is one of the most ordinary and reasonable things a person can feel. Wanting to feel safe where you live is not a political position.\n\n## What is actually behind it\n\nThe disorder is concentrated in specific places — and those places are almost always the ones that took the hardest economic hits. When the work leaves, the safety net frays, the services close, and the people in the deepest pain end up suffering in public because there is nowhere else for them to go. What you are seeing on the street is downstream of decisions made far from it.\n\n## What this leads to\n\nThe people who live closest to disorder are rarely the ones who caused it and rarely the ones with the means to leave it. Fear is a powerful thing — it makes people withdraw, it sharpens the line between us and them, and it is easily pointed at whoever is nearest rather than at whatever produced the conditions. The fear is legitimate. Where it gets aimed is the open question.",
+      "affected_groups": "Residents of economically devastated communities, urban and rural alike — disproportionately low-income and immigrant neighborhoods that live closest to disorder with the fewest resources to escape it.",
+      "upstream_causes": [
+        "2A",
+        "3B",
+        "3C"
+      ],
+      "downstream_effects": [
+        "4A",
+        "4E",
+        "5D"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "3G",
+      "layer": 3,
+      "layer_name": "Institutional Collapse",
+      "label_analytical": "Decline of Religious & Communal Life",
+      "label_experiential": "The places that gave life meaning and structure are emptying out",
+      "body_analytical": "## What it is\n\nCongregations and the dense web of communal institutions built around them — mutual aid, child care, eldercare, social events, a shared moral vocabulary, a reliable weekly gathering — have historically been among the most important sources of belonging and material support in working-class life. Their decline is a distinct structural loss, not merely a subset of the disappearance of generic gathering spaces.\n\n## How it works\n\nEconomic pressure leaves less time and money for communal participation. Geographic instability breaks the continuity that congregations depend on. Community anchor collapse closes the institutions physically. Broader secularization accelerates the trend. What erodes is not only worship but the mutual-aid network and the source of meaning that came bundled with it.\n\n## Upstream causes\n\nWage Stagnation (2A) — no time or money for communal life; Community Anchor Collapse (3C) — the decline of the surrounding community takes its institutions with it.\n\n## What it directly causes\n\n- Isolation & Loneliness (4A) — loss of a reliable, recurring source of connection\n- Identity & Meaning Crisis (4B) — loss of a shared framework of meaning and obligation\n\n## Who it affects\n\nReligious working-class communities most directly — but the underlying loss, of a binding institution that organized belonging and mutual aid, is felt across secular communities too.",
+      "body_experiential": "## When the congregation thins out\n\nFor a lot of people, there was a place that did more than its name suggested. The church, the parish, the temple, the meeting hall. It was where you saw the same faces every week, where someone brought a meal when a family was sick, where your kids were watched and your elders were honored, where you were reminded — out loud — that your life meant something and was owed something.\n\nThose places are emptying out. The congregation aged. The young people moved or drifted. The building costs money the dwindling membership can't carry. What goes when it goes is not only a service on a particular morning — it is a whole machinery of belonging and mutual aid that most people never noticed they were standing on until it was gone.\n\n## Why this is its own kind of loss\n\nThis is not just one more closed gathering spot. A congregation carried meaning and obligation, not only company. It told people who they were and what they owed each other. When it goes, the hole is not boredom — it is a quieter, deeper kind of disorientation.\n\n## What this leads to\n\nWhen the institution that organized belonging and meaning disappears, the need for both does not. People look for them elsewhere — and what they find is not always built to hold them.",
+      "affected_groups": "Religious working-class communities most directly, and — through the same loss of a binding, meaning-giving institution — secular communities that have lost their own equivalents.",
+      "upstream_causes": [
+        "2A",
+        "3C"
+      ],
+      "downstream_effects": [
+        "4A",
+        "4B"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "3H",
+      "layer": 3,
+      "layer_name": "Institutional Collapse",
+      "label_analytical": "Local News & Civic Information Collapse",
+      "label_experiential": "Nobody covers what actually happens where I live",
+      "body_analytical": "## What it is\n\nThe collapse of local journalism has left vast areas with little or no coverage of their own civic life. As local newspapers closed, the accountability they provided vanished, and the shared factual ground a community needs to govern itself eroded. The vacuum has been filled by national partisan media and algorithmic feeds optimized for engagement rather than for any particular place.\n\n## How it works\n\nFinancialization stripped and consolidated local papers; the advertising base that funded them migrated to a handful of technology platforms. With no one covering the city council, the school board, the courthouse, or the local employer, corruption and decline go unwitnessed, and residents lose the sense of a shared local reality. What remains is national outrage content that has nothing to do with the place a person actually lives.\n\n## Upstream causes\n\nFinancialization (1B) — local papers bought, stripped, and shuttered; Technological Disruption (1E) — the ad model that funded local news migrated to platforms; Corporate Monopoly Power (2G) — consolidation of both media ownership and the ad market.\n\n## What it directly causes\n\n- Political Disenfranchisement (3D) — without local accountability, local power answers to no one\n- Social Media as Accelerant (4D) — national algorithmic content fills the local void\n- Tribalism as Substitute Belonging (4E) — distant national conflict replaces local civic identity\n\n## Who it affects\n\nResidents of the growing number of communities with little or no local news coverage — concentrated in rural areas and working-class towns, but increasingly everywhere.",
+      "body_experiential": "## When the local paper went away\n\nThere used to be someone whose job was to know what was happening where you live. Who sat in the city council meeting. Who noticed when the factory's permits changed, when the school budget got cut, when the local official did something that didn't add up. You may not have read it cover to cover. But it was there, and the fact that someone might write it down kept a certain amount of things honest.\n\nThat someone is mostly gone now. The local paper got bought, thinned, and closed. And into the silence rushed something else: an endless feed of national outrage that has nothing to do with your town, your roads, your schools, or the people actually making decisions near you.\n\n## What you lost without noticing\n\nYou lost the watchman, and you lost the mirror. The watchman kept local power a little more accountable. The mirror let a community see itself — its own problems, its own decisions, its own shared facts. Without it, the only story available is the national one, and the national one is built to make you angry at people far away rather than aware of what is happening close by.\n\n## What this leads to\n\nWhen no one covers the place you live, local power stops answering to anyone, and the attention that should have gone to your own community gets routed into a national fight you cannot affect — and were never really part of.",
+      "affected_groups": "Residents of communities that have lost local news coverage — concentrated in rural and working-class areas, but a widening condition almost everywhere.",
+      "upstream_causes": [
+        "1B",
+        "1E",
+        "2G"
+      ],
+      "downstream_effects": [
+        "3D",
+        "4D",
+        "4E"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "4A",
+      "layer": 4,
+      "layer_name": "Social Fracture",
+      "label_analytical": "Isolation & Loneliness",
+      "label_experiential": "I feel completely alone",
+      "body_analytical": "## What it is\n\nThe U.S. Surgeon General declared a loneliness epidemic in 2023. Americans report fewer close friends, less community participation, and more time alone than at any point in recent decades. This is not a cultural mood — it has structural causes.\n\n## Upstream causes\n\nDisappearance of Third Places (3E), Community Anchor Collapse (3C), Housing Unaffordability (2C) — long commutes and geographic instability; Wage Stagnation (2A) — overwork, no time; Decline of Worker Power (3A) — loss of union community.\n\n## What it directly causes\n\n- Mental health crisis (5B) — isolation carries documented health consequences on a scale comparable to long-term smoking\n- Vulnerability to online radicalization (4D) — isolated people are more susceptible to extreme online communities\n- Decline of civic and political engagement\n- Health consequences — loneliness is a significant mortality risk\n\n## Who it affects\n\nThe loneliness epidemic is broad but concentrated in working-class communities that have experienced the most severe loss of social infrastructure.",
+      "body_experiential": "## You're not alone in feeling alone\n\nIn 2023, the U.S. Surgeon General named loneliness as a public health concern. Americans report fewer close friends than previous generations did, and by many measures young people are the loneliest of all.\n\nThis is not a personal failure. It is not that you are bad at making friends or that your generation is weak. The physical infrastructure of social connection — the places, the institutions, the work arrangements that made regular contact with other people possible — has been systematically dismantled.\n\n## What isolation does\n\nLoneliness isn't just uncomfortable. Research shows that chronic isolation carries health risks on a scale comparable to long-term smoking. It increases susceptibility to misinformation and to extreme communities — when you're isolated, online communities that offer belonging and a sense of purpose become very attractive, regardless of what they're asking you to believe.\n\n## What brought you here\n\nThe causes are upstream: economic stress that produces overwork and geographic instability, communities that lost their anchors, third places that closed, institutions that disappeared. You are lonely for structural reasons, not personal ones.",
+      "affected_groups": "Broadly across working-class demographics, with concentration in deindustrialized communities, among young adults, and among older men.",
+      "upstream_causes": [
+        "2A",
+        "2C",
+        "3A",
+        "3C",
+        "3E",
+        "3F",
+        "4F",
+        "3G"
+      ],
+      "downstream_effects": [
+        "4D",
+        "5B"
+      ],
+      "solidarity_connections": [
+        "4B"
+      ]
+    },
+    {
+      "id": "4B",
+      "layer": 4,
+      "layer_name": "Social Fracture",
+      "label_analytical": "Identity & Meaning Crisis",
+      "label_experiential": "I don't know what I'm for anymore",
+      "body_analytical": "## What it is\n\nWhen stable work, community, and upward mobility disappear, so does the scaffolding on which many people build a sense of self, purpose, and dignity. This hits working-class men with particular force — the 'good provider' role, the skilled trade identity, the respected community member — all disrupted simultaneously.\n\n## Upstream causes\n\nGlobalization (1D) and Technological Disruption (1E) eliminated specific working-class roles; Job Precarity (2B) — work without stability lacks identity-anchoring function; Decline of Worker Power (3A) — the union identity and dignity are gone; Community Anchor Collapse (3C) — the community context in which identity made sense is gone.\n\n## What it directly causes\n\n- Gender conflict (4C) — identity crisis produces reactionary cultural responses\n- Addiction and Deaths of Despair (5C) — substance use as a coping mechanism for purposelessness\n- Political Radicalization (5D) — authoritarian movements offer identity and purpose\n- Family and relationship breakdown\n\n## Note on gender\n\nThis is not only a male experience. Women's identity and meaning are also destabilized by economic precarity — but the cultural scripts differ, creating conditions for conflict between groups experiencing the same root disruption.",
+      "body_experiential": "## When the story of your life stopped making sense\n\nThere was supposed to be a path. Work hard, build something, provide for people you care about, be respected for it. For a lot of working people, that path has been closed off or made unstable. The loss looks different depending on the life you were building toward — but the hole it leaves is the same shape.\n\nThe job is gone. The community that gave the job its meaning is hollowed out. The institutions that organized a sense of collective purpose have disappeared. What's left is a kind of disorientation that goes deeper than unemployment — it's a loss of the story you were supposed to be living.\n\n## This doesn't have an easy fix\n\nMeaninglessness is not something a retraining program addresses. The crisis of meaning that accompanies economic disruption is real, painful, and not reducible to economics. But it is caused by economic disruption — by the specific collapse of work arrangements and community structures that had organized working-class identity for generations.\n\n## What this leads to\n\nWhen people lose the narrative of their life, they often go looking for a new one. Some find it in family or community or other forms of purpose. Many find it in movements that offer a clear enemy, a strong identity, and a sense of belonging — regardless of whether those movements have anything to do with the actual causes of the pain.",
+      "affected_groups": "Working-class men most severely — but also women whose economic and community roles have been disrupted. Concentrated in deindustrialized communities.",
+      "upstream_causes": [
+        "1D",
+        "1E",
+        "2B",
+        "3A",
+        "3C",
+        "4F",
+        "3G"
+      ],
+      "downstream_effects": [
+        "4C",
+        "5C",
+        "5D"
+      ],
+      "solidarity_connections": [
+        "4A"
+      ]
+    },
+    {
+      "id": "4C",
+      "layer": 4,
+      "layer_name": "Social Fracture",
+      "label_analytical": "Gender Conflict",
+      "label_experiential": "Men and women feel like they're at war",
+      "body_analytical": "## What it is\n\nConflict between men and women over economic roles, dating, family formation, and cultural power that is often framed as ideological but is substantially driven by shared economic precarity playing out differently by gender.\n\n## How the fracture works\n\nMen: economic role disrupted, status pathways blocked, algorithmically funneled into reactionary 'manosphere' communities. Women: economic independence increased but partnership market destabilized, safety concerns unaddressed, also algorithmically sorted. Both: under genuine stress, given cultural frameworks that point at each other instead of at shared structural causes.\n\n## Upstream causes\n\nWage Stagnation (2A), Job Precarity (2B), Housing Unaffordability (2C) — make family formation economically impossible; Isolation (4A) — cuts off healthy social contact; Identity Crisis (4B) — destabilizes gender role scripts; Social Media (4D) — sorts people into adversarial gendered communities.\n\n## What it directly causes\n\n- Declining marriage and birth rates\n- Political gender sorting — women moving left, men moving right, accelerating\n- Deepens isolation for both groups\n- Prevents solidarity across gender lines\n- Is weaponized to prevent class solidarity (5D)\n\n## Who it affects\n\nBroadly, across age groups, with the sharpest impacts on younger generations navigating economic conditions that make traditional family formation very difficult.",
+      "body_experiential": "## The war that benefits no one who's in it\n\nSomething has gone very wrong in how men and women relate to each other. The anger is real on both sides. The pain is real. The sense of being betrayed or dismissed by the other gender is real.\n\nBut look at what's upstream. Family formation is economically impossible for most young working-class people — you can't afford the housing, the childcare, the stability to build a partnership. Men who've lost economic status are being algorithmically sorted into communities that identify women as the enemy. Women navigating a labor market that still doesn't treat them equally are also being algorithmically sorted into adversarial frameworks.\n\n## The same causes, different experiences\n\nBoth men and women are living through the downstream effects of the same economic pressures. But the stories each side is handed point the blame across the divide — at each other — rather than upstream at what is actually squeezing them both. The anger ends up with somewhere to go that costs no one upstream anything.\n\n## What this leads to\n\nAcross political polling, men and women are sorting into increasingly separate political camps. That sorting accelerates as the underlying economic conditions that drive the conflict remain unaddressed.",
+      "affected_groups": "Young working-class adults of all genders, with concentrated impact on those navigating mating and family formation in economically precarious conditions.",
+      "upstream_causes": [
+        "2A",
+        "2B",
+        "2C",
+        "4A",
+        "4B",
+        "4D"
+      ],
+      "downstream_effects": [
+        "5D",
+        "4F"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "4D",
+      "layer": 4,
+      "layer_name": "Social Fracture",
+      "label_analytical": "Social Media as Accelerant",
+      "label_experiential": "Social media is pouring fuel on everything that divides us",
+      "body_analytical": "## What it is\n\nSocial media platforms did not create the divisions below — but they were designed to monetize engagement, and outrage drives engagement. They function as an accelerant poured on already-burning structural fires.\n\n## How it works\n\nAlgorithms surface content that provokes strong emotional response. Outrage and fear are the highest-engagement emotions. Filter bubbles confirm and intensify existing beliefs. Identity-based conflict is endlessly generative content. Isolation (4A) makes online community feel necessary rather than optional.\n\n## Upstream causes\n\nIsolation (4A) — social media fills the void left by collapsed physical community; Identity Crisis (4B) — people seek meaning and identity in online communities; Gender Conflict (4C) — already-present conflict gets amplified.\n\n## What it directly causes\n\n- Amplifies gender conflict (4C) — feeds back and intensifies\n- Tribalism (4E) — sorts people into adversarial in-group/out-group frameworks\n- Radicalization (5D) — algorithmic pipeline from mainstream to extreme content\n- Epistemic fragmentation — shared reality breaks down\n- Replaces without replicating real community\n\n## Who it affects\n\nBroadly across demographics, but with strongest radicalization effects on isolated young men and strongest political sorting effects on all users.",
+      "body_experiential": "## The machine is designed to make you angry\n\nSocial media platforms are not neutral spaces. They are advertising businesses, and their product is your attention. Anger, fear, and outrage are the most attention-grabbing emotions — so the algorithm learns to serve you content that makes you feel those things.\n\nThe divisions weren't invented by social media. The economic precarity, the identity loss, the community collapse — those are real. But social media takes those real conditions and runs them through an engagement optimization engine that finds the most polarizing framing possible and serves it to you all day.\n\n## What isolation does to this\n\nWhen your physical community is gone, online community isn't supplementary — it's primary. You belong there. You have a tribe there. That belonging becomes load-bearing, which means you can't afford to question what the tribe believes.\n\n## What this leads to\n\nThe same algorithm that holds your attention also shapes what you think the fight is about. It finds the version of your grievance that is angriest at another group of people, and serves you that — over and over, because it works. What it almost never surfaces is the slower, less satisfying story of where the grievance actually comes from.",
+      "affected_groups": "Broadly across demographics. Strongest radicalization effects on isolated young men; strongest political sorting effects across all users.",
+      "upstream_causes": [
+        "4A",
+        "4B",
+        "4C",
+        "3H"
+      ],
+      "downstream_effects": [
+        "4C",
+        "4E",
+        "5D"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "4E",
+      "layer": 4,
+      "layer_name": "Social Fracture",
+      "label_analytical": "Tribalism as Substitute Belonging",
+      "label_experiential": "I belong to my side, and everyone else is the enemy",
+      "body_analytical": "## What it is\n\nWhen community and economic identity collapse, tribal identity — political, racial, cultural, religious — fills the void. Belonging to a tribe gives meaning, purpose, enemies, and community. It is a rational response to the loss of organic belonging — but it produces zero-sum thinking that blocks structural solutions.\n\n## Upstream causes\n\nDisappearance of Third Places (3E), Isolation (4A), Identity Crisis (4B), Social Media acceleration (4D) — all contribute to the conditions where tribal identity becomes the primary organizing framework.\n\n## What it directly causes\n\n- Zero-sum thinking about shared resources\n- Scapegoating of out-groups — immigrants, other races, other genders, other regions\n- Political polarization that blocks systemic reform\n- Reinforces the feedback loop back to Layer 1 — divided people don't demand structural change\n- Enables Radicalization (5D)\n\n## Who it affects\n\nBroadly across the population — tribalism is a feature of human psychology activated by the conditions produced by the upstream forces in this map.",
+      "body_experiential": "## When belonging becomes a weapon\n\nHumans need to belong. That is not weakness — it is wiring. When the ordinary structures of belonging disappear — the workplace, the congregation, the neighborhood, the union hall — people find belonging somewhere else. And some of the strongest forms of belonging are the ones organized around an enemy. The group holds together because there is a them.\n\n## What an enemy does for you\n\nHaving an enemy is clarifying. It explains why things are bad, it tells you who to be angry at, and it asks nothing of you except loyalty. A structural explanation cannot compete with that — it is slower, it is harder to act on, and it does not hand you anyone to be angry at tonight. So when someone offers a face to put on your pain, it is a relief to take it.\n\n## Who ends up on the other side\n\nIt is worth noticing who the enemy usually turns out to be. Rarely the people making the decisions that hollowed out the work and the wages — they are distant, hard to reach, hard to picture. Usually it is someone closer: another group living through the same squeeze, from a slightly different angle. When you feel the pull of the team and its rival, it is worth asking whether the person across the line is more like an opponent, or more like someone caught in the same storm.",
+      "affected_groups": "Broadly across the population. Concentrated in communities where identity loss and isolation are most severe.",
+      "upstream_causes": [
+        "3E",
+        "4A",
+        "4B",
+        "4D",
+        "3F",
+        "3H",
+        "2I"
+      ],
+      "downstream_effects": [
+        "5D"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "4F",
+      "layer": 4,
+      "layer_name": "Social Fracture",
+      "label_analytical": "The Closing of Family Formation",
+      "label_experiential": "The family I expected to build is out of reach",
+      "body_analytical": "## What it is\n\nFor large parts of the working class, forming a family — partnering, marrying, having and raising children — has moved from an ordinary expectation to a financial and logistical near-impossibility. This is experienced as a primary loss, not a derivative one, across the political spectrum, and it sits where economic foreclosure meets cultural destabilization.\n\n## How it works\n\nThe economic prerequisites for stable family formation — affordable housing, predictable income, affordable childcare, the confidence that a setback won't be catastrophic — have been systematically removed. At the same time, the cultural scripts that organized partnership and parenthood have been destabilized. The result is delayed, foregone, or precarious family formation, and a widespread grief that crosses every political line.\n\n## Upstream causes\n\nWage Stagnation (2A), Job Precarity (2B), Housing Unaffordability (2C), Childcare & Education Costs (2D) — the economic floor for family formation; Gender Conflict (4C) — the destabilization of partnership itself.\n\n## What it directly causes\n\n- Isolation & Loneliness (4A) — the family that would have anchored a social world never forms\n- Identity & Meaning Crisis (4B) — for many, the family was the central source of purpose\n- Collapsing Social Mobility (5E) — declining and delayed family formation reshapes the next generation\n\n## Who it affects\n\nYounger working-class people across the spectrum — including both those who hold traditional expectations of marriage and children and those who do not, who nonetheless find the option foreclosed.",
+      "body_experiential": "## The life you assumed you'd be able to build\n\nThere was a version of adulthood most people simply assumed was available. Meet someone. Build something together. Have kids, or be able to if you wanted them. A home with enough room and enough stability to raise a family in. Not luxury — just the ordinary shape of a life.\n\nFor a lot of working people now, that shape is out of reach. The housing costs too much. The childcare costs more than a paycheck. The work is too unstable to plan a family around. So the family gets delayed, then delayed again, and for many it quietly becomes a thing that didn't happen.\n\n## A grief that crosses every line\n\nThis loss is felt by people who would describe it in completely different language. Someone whose faith taught them that marriage and children are the center of a life. Someone who simply wanted the choice and found it priced out of reach. They would not vote the same way or use the same words. But the thing that closed in front of them is the same thing, and it closed for the same reasons.\n\n## What this leads to\n\nWhen the family a person expected to build never forms, what is lost is not only that family. It is the social world it would have anchored, the purpose it would have organized, and the next generation it would have raised. The grief is real, and it is structural — it was priced in long before it reached anyone's kitchen table.",
+      "affected_groups": "Younger working-class people across the political and cultural spectrum — those with traditional family expectations and those without, alike finding stable family formation foreclosed.",
+      "upstream_causes": [
+        "2A",
+        "2B",
+        "2C",
+        "2D",
+        "4C"
+      ],
+      "downstream_effects": [
+        "4A",
+        "4B",
+        "5E"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "5A",
+      "layer": 5,
+      "layer_name": "Human Cost",
+      "label_analytical": "Learned Helplessness",
+      "label_experiential": "Everything I try fails. I've stopped trying.",
+      "body_analytical": "## What it is\n\nWhen people repeatedly try to change their situation — voting, working harder, moving, retraining — and find that nothing changes, they stop trying. Psychologist Martin Seligman identified this pattern in individuals. It operates at a social scale too.\n\n## Upstream causes\n\nVirtually all of the above: Wage Stagnation (2A), Debt (2F), Erosion of Safety Net (3B), Political Disenfranchisement (3D) — all contribute to the repeated experience of effort without outcome.\n\n## What it directly causes\n\n- Political disengagement that reinforces regulatory capture by feeding back to (1C)\n- Depression and anxiety (5B)\n- Resistance to organizing or collective action\n- Vulnerability to nihilism and radicalization (5D)\n\n## Who it affects\n\nConcentrated in communities and populations that have experienced the most repeated and severe failure of economic and political systems — deindustrialized communities, chronically poor communities, communities with persistent political marginalization.",
+      "body_experiential": "## You tried. It didn't work. You tried again.\n\nYou voted. Things didn't change. You worked harder. The wage didn't go up. You moved for a better job. The rent ate the raise. You went back to school. The debt outlasted the degree.\n\nAt some point, the reasonable conclusion is: none of this works. Stop trying. And that conclusion — as reasonable as it is given the evidence — is one of the most devastating things the system produces. Because it protects the system from the people who might otherwise demand that it change.\n\n## This is what it's called\n\nPsychologists call this 'learned helplessness' — when an organism experiences repeated uncontrollable negative outcomes, it stops trying to escape them even when escape becomes possible. It was first observed in animals, then in humans. It operates at the scale of communities and populations too.\n\n## What this leads to\n\nLearned helplessness produces depression. It produces withdrawal from civic life. It produces openness to movements that promise decisive action — even if that action is authoritarian, even if the targets are wrong. When nothing works, 'burn it down' starts to sound like a plan.",
+      "affected_groups": "People in chronically failing economic and political environments — deindustrialized communities, persistent poverty, politically marginalized populations.",
+      "upstream_causes": [
+        "2A",
+        "2F",
+        "3B",
+        "3D"
+      ],
+      "downstream_effects": [
+        "5B",
+        "5D"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "5B",
+      "layer": 5,
+      "layer_name": "Human Cost",
+      "label_analytical": "Mental Health Crisis",
+      "label_experiential": "I'm anxious and depressed and I don't know how to fix it",
+      "body_analytical": "## What it is\n\nDepression, anxiety, suicide, and despair are at historically high levels — especially among young people and working-class communities. These are real individual experiences. But they are also social and economic diseases being routed through psychiatric categories.\n\n## Upstream causes\n\nIsolation (4A), Healthcare Unaffordability (2E), Wage Stagnation (2A), Identity Crisis (4B), Learned Helplessness (5A), Debt (2F) — all contribute to conditions that produce mental health crisis at scale.\n\n## Note on framing\n\nTreating the mental health crisis as primarily a healthcare supply problem misses its structural causes. More therapists in economically devastated communities does not address why people in those communities are despairing. Individual treatment is necessary but not sufficient when the conditions producing despair are structural.\n\n## What it directly causes\n\n- Addiction and Deaths of Despair (5C) — untreated mental health crisis fuels substance use\n\n## Who it affects\n\nBroadly across demographics, with concentration among young adults, working-class communities, and communities that have experienced severe deindustrialization and community collapse.",
+      "body_experiential": "## You're not broken\n\nThe mental health crisis is real. The anxiety, the depression, the sense that something is wrong that can't be fixed — these are real experiences affecting tens of millions of people. They are also, in many cases, the correct emotional response to a set of structural conditions that are genuinely bad.\n\nWorrying about rent when rent is unaffordable is not an anxiety disorder. Losing hope when the political system repeatedly ignores your interests is not depression in the clinical sense. Grieving the loss of community and purpose when your community has been hollowed out is not a mental illness.\n\n## Why the supply-side solution isn't enough\n\nThe answer to the mental health crisis being offered is usually: more therapists, more apps, more access to treatment. That's necessary. But a therapist can help you cope with conditions that are structural — they cannot change those conditions. The grief is real. The conditions producing it are also real and still operating.\n\n## What brought you here\n\nIsolation, economic precarity, identity loss, debt, a political system that doesn't respond — all of these upstream forces contribute to the conditions in which mental health crisis becomes epidemic. The treatment is individual. The cause is collective.",
+      "affected_groups": "Broadly across demographics; concentrated among young adults, working-class communities, and deindustrialized regions.",
+      "upstream_causes": [
+        "2A",
+        "2E",
+        "2F",
+        "4A",
+        "4B",
+        "5A"
+      ],
+      "downstream_effects": [
+        "5C"
+      ],
+      "solidarity_connections": []
+    },
+    {
+      "id": "5C",
+      "layer": 5,
+      "layer_name": "Human Cost",
+      "label_analytical": "Addiction & Deaths of Despair",
+      "label_experiential": "My community is being destroyed by addiction and early death",
+      "body_analytical": "## What it is\n\nEconomists Anne Case and Angus Deaton identified rising mortality among working-class Americans with no parallel in other wealthy nations: 'deaths of despair' — deaths from drug overdose, alcohol-related disease, and suicide. These are geographically and economically concentrated, most severely in white working-class communities in deindustrialized regions.\n\n## Upstream causes\n\nCommunity Anchor Collapse (3C), Identity Crisis (4B), Wage Stagnation (2A), Learned Helplessness (5A), and Mental Health Crisis (5B) all contribute to conditions where substance use becomes a survival mechanism for unbearable pain.\n\n## Note on the opioid crisis\n\nThe opioid crisis was deliberately manufactured — Purdue Pharma aggressively marketed opioids to high-pain, economically devastated communities, and regulatory failure (1C) allowed it to happen. This makes it a meeting point of Layer 1 (regulatory capture) and Layer 5 (human cost).\n\n## Note on who is most affected\n\nThe geographic and demographic concentration is worth naming precisely. The communities most devastated are those that experienced the sharpest deindustrialization — often white working-class communities in the Rust Belt and Appalachia. These are communities told they were the backbone of the country. They are dying at rates comparable to people in much poorer nations.",
+      "body_experiential": "## The bodies are real\n\nThis isn't a metaphor. People are dying. Overdoses, cirrhosis, suicide — at rates that have no equivalent in comparable wealthy countries. And the deaths are concentrated in specific places: the communities that experienced the steepest deindustrialization, the most severe community collapse, the deepest loss of purpose and future.\n\nIn those communities, you know people who have died this way. You may have lost someone. The grief is ordinary now — which is itself a measure of how far things have gone.\n\n## What the opioid crisis reveals\n\nPurdue Pharma knew what it was doing. They targeted high-pain, economically devastated communities with aggressive marketing and false safety claims. The FDA and the DEA had the information to stop it and didn't. The regulatory failure was not accidental — it was the product of the same capture that runs through this entire map.\n\n## What brought you here\n\nSubstance use in the context of addiction is most often a response to pain that has no other exit. The pain is real: economic, social, purposeless. When people lose the economic anchor, the community, the story of their life — and find no legitimate help — some find chemical relief. That is not a moral failure. It is a predictable human response to structural devastation.",
+      "affected_groups": "White working-class communities in deindustrialized regions most severely. Also communities of color in high-poverty urban areas with histories of disinvestment.",
+      "upstream_causes": [
+        "2A",
+        "3C",
+        "4B",
+        "5A",
+        "5B"
+      ],
+      "downstream_effects": [],
+      "solidarity_connections": []
+    },
+    {
+      "id": "5D",
+      "layer": 5,
+      "layer_name": "Human Cost",
+      "label_analytical": "Political Radicalization",
+      "label_experiential": "I'm ready to burn the whole thing down",
+      "body_analytical": "## What it is\n\nWhen legitimate channels fail and suffering continues, people seek strong explanations and strong leaders. Both left and right radicalization are responses to the same broken system — they have different scapegoats and different visions, but the same structural origin.\n\n## Upstream causes\n\nPolitical Disenfranchisement (3D), Identity Crisis (4B), Gender Conflict (4C), Social Media (4D), Tribalism (4E), Learned Helplessness (5A) — all contribute to conditions where radicalization becomes a rational-seeming option.\n\n## The critical feedback loop\n\nA radicalized, tribalized electorate is harder to organize across lines. Radicalization focuses political energy on culture war instead of structural reform. It creates conditions for authoritarian politics. And crucially: it feeds back to protect the conditions that produce the suffering by directing anger at other working-class people rather than the structural forces at Layer 1.\n\n## Who it affects\n\nBroadly, but with concentration among populations experiencing the most severe convergence of economic precarity, identity loss, isolation, and political failure.",
+      "body_experiential": "## The anger is real. The question is where it goes.\n\nThe rage that fuels radicalization is not irrational. It belongs to people whose needs were ignored, whose communities were abandoned, whose political system stopped answering, and whose pain has too often been explained back to them as their own fault. That rage is earned.\n\nThe only real question is where it points. It can point at the conditions that produced it — or it can point sideways, at someone else standing in the same conditions. Both directions feel like action. Only one of them reaches the cause.\n\n## It runs both ways\n\nThis is not a left phenomenon or a right phenomenon. People radicalize in every direction, with different villains and different visions, drawing from the same well: a legitimate grievance that found no legitimate outlet. The surface stories are opposites. The thing underneath them is the same.\n\n## Why it is so sticky\n\nA population sorted into warring camps is very hard to organize across those camps. The energy pours into the culture war, where it is loud and visible and changes very little upstream. That is not a reason for despair — it may be the most useful thing on this whole map to be able to see clearly. The anger is not the problem. Where it has been aimed is. And aim is something a person can change.",
+      "affected_groups": "Populations experiencing severe convergence of economic precarity, identity loss, isolation, and political failure — concentrated in deindustrialized communities and online radicalization pipelines.",
+      "upstream_causes": [
+        "3D",
+        "4B",
+        "4C",
+        "4D",
+        "4E",
+        "5A",
+        "3F"
+      ],
+      "downstream_effects": [],
+      "solidarity_connections": []
+    },
+    {
+      "id": "5E",
+      "layer": 5,
+      "layer_name": "Human Cost",
+      "label_analytical": "Collapsing Social Mobility",
+      "label_experiential": "My kids will have it worse than I did",
+      "body_analytical": "## What it is\n\nThe United States now has lower economic mobility than most comparable wealthy nations. A child born poor is more likely to escape poverty in Canada, Germany, or Denmark than in the U.S. The 'American Dream' — work hard and get ahead — has become a statistical exception.\n\n## Upstream causes\n\nWealth Concentration (1A), Wage Stagnation (2A), Housing Unaffordability (2C), Childcare and Education Costs (2D), Racial Wealth Gap (2H), and Safety Net Erosion (3B) all contribute to a system where economic position transmits across generations.\n\n## What it directly causes\n\n- Generational transmission of poverty\n- Deepens the sense of a rigged system — the American Dream's failure is visible across generations\n- Reinforces Learned Helplessness (5A) — if effort doesn't pay off across a lifetime, why try?\n- Erodes the legitimacy of the social contract",
+      "body_experiential": "## When the promise breaks\n\nYou were told: work hard, do the right things, and your kids will have more than you did. For most of American history, that was at least partly true — not for everyone, not equally, but enough to sustain the belief.\n\nNow the data says otherwise. A child born poor in the United States is more likely to stay poor than in Canada, Germany, Denmark, or most other comparable countries. The land of opportunity has become, statistically, one of the worst wealthy countries for escaping the circumstances of your birth.\n\n## Why the Dream failed\n\nSocial mobility requires things that have been systematically dismantled: quality public education regardless of zip code, affordable higher education without debt, housing that doesn't swallow most of a paycheck, a safety net that cushions setbacks without trapping people in dependency. Each of these has been eroded by the forces upstream in this map.\n\n## What this feels like\n\nIt's a specific kind of despair — not about your own situation but about your children's future. The belief that the next generation will be okay has been one of the things that made current sacrifice feel worthwhile. When that belief becomes implausible, the sacrifice feels like it was for nothing.",
+      "affected_groups": "Children born into working-class and poor families; parents watching their children face worse prospects than they did; communities experiencing multigenerational poverty.",
+      "upstream_causes": [
+        "1A",
+        "2A",
+        "2C",
+        "2D",
+        "2H",
+        "3B",
+        "4F"
+      ],
+      "downstream_effects": [
+        "5A"
+      ],
+      "solidarity_connections": []
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-1A-1C",
+      "source": "1A",
+      "target": "1C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1A-2A",
+      "source": "1A",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1A-2C",
+      "source": "1A",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1A-2H",
+      "source": "1A",
+      "target": "2H",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-2A",
+      "source": "1B",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-2B",
+      "source": "1B",
+      "target": "2B",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-2C",
+      "source": "1B",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-2E",
+      "source": "1B",
+      "target": "2E",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-3C",
+      "source": "1B",
+      "target": "3C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-2G",
+      "source": "1C",
+      "target": "2G",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-3A",
+      "source": "1C",
+      "target": "3A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-3D",
+      "source": "1C",
+      "target": "3D",
+      "type": "causal"
+    },
+    {
+      "id": "e-1D-2A",
+      "source": "1D",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1D-3C",
+      "source": "1D",
+      "target": "3C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1E-2A",
+      "source": "1E",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1E-2B",
+      "source": "1E",
+      "target": "2B",
+      "type": "causal"
+    },
+    {
+      "id": "e-1E-4B",
+      "source": "1E",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-1F-2B",
+      "source": "1F",
+      "target": "2B",
+      "type": "causal"
+    },
+    {
+      "id": "e-1F-2C",
+      "source": "1F",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1F-3C",
+      "source": "1F",
+      "target": "3C",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2B",
+      "source": "2A",
+      "target": "2B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2C",
+      "source": "2A",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2D",
+      "source": "2A",
+      "target": "2D",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2E",
+      "source": "2A",
+      "target": "2E",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2F",
+      "source": "2A",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-4A",
+      "source": "2A",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-4B",
+      "source": "2A",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2B-2F",
+      "source": "2B",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2B-4B",
+      "source": "2B",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2C-4A",
+      "source": "2C",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2D-2F",
+      "source": "2D",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2D-4A",
+      "source": "2D",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2D-5E",
+      "source": "2D",
+      "target": "5E",
+      "type": "causal"
+    },
+    {
+      "id": "e-2E-2F",
+      "source": "2E",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2E-5B",
+      "source": "2E",
+      "target": "5B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2F-5B",
+      "source": "2F",
+      "target": "5B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2G-2A",
+      "source": "2G",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2G-3C",
+      "source": "2G",
+      "target": "3C",
+      "type": "causal"
+    },
+    {
+      "id": "e-2H-2A",
+      "source": "2H",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2H-2C",
+      "source": "2H",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-2H-2E",
+      "source": "2H",
+      "target": "2E",
+      "type": "causal"
+    },
+    {
+      "id": "e-2H-2F",
+      "source": "2H",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2H-5E",
+      "source": "2H",
+      "target": "5E",
+      "type": "causal"
+    },
+    {
+      "id": "e-3A-2A",
+      "source": "3A",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3A-4B",
+      "source": "3A",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-3B-2F",
+      "source": "3B",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-3B-5A",
+      "source": "3B",
+      "target": "5A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-3E",
+      "source": "3C",
+      "target": "3E",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-4A",
+      "source": "3C",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-5C",
+      "source": "3C",
+      "target": "5C",
+      "type": "causal"
+    },
+    {
+      "id": "e-3D-5A",
+      "source": "3D",
+      "target": "5A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3D-5D",
+      "source": "3D",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-3E-4A",
+      "source": "3E",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3E-4D",
+      "source": "3E",
+      "target": "4D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4A-4D",
+      "source": "4A",
+      "target": "4D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4A-5B",
+      "source": "4A",
+      "target": "5B",
+      "type": "causal"
+    },
+    {
+      "id": "e-4B-4C",
+      "source": "4B",
+      "target": "4C",
+      "type": "causal"
+    },
+    {
+      "id": "e-4B-5C",
+      "source": "4B",
+      "target": "5C",
+      "type": "causal"
+    },
+    {
+      "id": "e-4B-5D",
+      "source": "4B",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4C-5D",
+      "source": "4C",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4D-4C",
+      "source": "4D",
+      "target": "4C",
+      "type": "causal"
+    },
+    {
+      "id": "e-4D-4E",
+      "source": "4D",
+      "target": "4E",
+      "type": "causal"
+    },
+    {
+      "id": "e-4D-5D",
+      "source": "4D",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4E-5D",
+      "source": "4E",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-5A-5B",
+      "source": "5A",
+      "target": "5B",
+      "type": "causal"
+    },
+    {
+      "id": "e-5A-5D",
+      "source": "5A",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-5B-5C",
+      "source": "5B",
+      "target": "5C",
+      "type": "causal"
+    },
+    {
+      "id": "e-5E-5A",
+      "source": "5E",
+      "target": "5A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2F-1A-feedback",
+      "source": "2F",
+      "target": "1A",
+      "type": "feedback"
+    },
+    {
+      "id": "e-5A-1C-feedback",
+      "source": "5A",
+      "target": "1C",
+      "type": "feedback"
+    },
+    {
+      "id": "e-5D-1A-feedback",
+      "source": "5D",
+      "target": "1A",
+      "type": "feedback"
+    },
+    {
+      "id": "e-5D-1C-feedback",
+      "source": "5D",
+      "target": "1C",
+      "type": "feedback"
+    },
+    {
+      "id": "e-solidarity-3C-3D",
+      "source": "3C",
+      "target": "3D",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-solidarity-4A-4B",
+      "source": "4A",
+      "target": "4B",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-solidarity-2B-3B",
+      "source": "2B",
+      "target": "3B",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-solidarity-1A-1B",
+      "source": "1A",
+      "target": "1B",
+      "type": "solidarity"
+    }
+  ],
+  "feedback_loops": [
+    {
+      "id": "loop-political-lock",
+      "name_analytical": "The Political Lock",
+      "name_experiential": "Why voting doesn't seem to change anything",
+      "node_sequence": [
+        "1A",
+        "1C",
+        "1A"
+      ],
+      "description_analytical": "Wealth Concentration (1A) produces Regulatory Capture (1C), which produces policies that increase Wealth Concentration (1A), which produces more Regulatory Capture. The loop is self-reinforcing and accelerating. Concentrated wealth buys political influence; political influence produces policy that further concentrates wealth.",
+      "description_experiential": "When enough money concentrates at the top, it can buy the rules. Lobbying, campaign finance, the revolving door between industry and government — all of these translate wealth into policy. And the policy produces more wealth concentration. Each cycle tightens the loop. This is why structural conditions persist across administrations of both parties.",
+      "historical_note": "This loop has been interrupted historically — antitrust enforcement in the early 20th century, New Deal labor legislation, the progressive tax regime of the postwar period. Interruption has required sustained popular pressure sufficient to overcome the structural advantages of concentrated wealth."
+    },
+    {
+      "id": "loop-despair-lock",
+      "name_analytical": "The Despair Lock",
+      "name_experiential": "Why things seem to get worse no matter what",
+      "node_sequence": [
+        "2A",
+        "3C",
+        "4A",
+        "5A",
+        "5D",
+        "1C",
+        "2A"
+      ],
+      "description_analytical": "Economic precarity (Layer 2) produces community collapse (3C), which produces isolation and identity crisis (4A), which produces learned helplessness and radicalization (5A, 5D), which produces political disengagement and tribalism that protects regulatory capture (1C), which allows the economic conditions to continue. Each turn of the loop makes the next turn harder to interrupt.",
+      "description_experiential": "The economic pressure makes communities collapse. The community collapse produces isolation and meaninglessness. The isolation produces despair and political withdrawal or rage. The withdrawal and rage protect the political conditions that allow the economic pressure to continue. It's not a cycle of bad luck — it's a structure that reproduces itself. Understanding the structure is the first step toward seeing where it can be interrupted.",
+      "historical_note": "The Despair Lock has been partially interrupted by movements that rebuilt collective identity and community outside of economic institutions — labor organizing, civil rights movements, and community organizing that created new social infrastructure when existing institutions failed."
+    },
+    {
+      "id": "loop-division-lock",
+      "name_analytical": "The Division Lock",
+      "name_experiential": "Why we fight each other instead of the system",
+      "node_sequence": [
+        "2A",
+        "4C",
+        "4E",
+        "1A",
+        "2A"
+      ],
+      "description_analytical": "Shared economic precarity (2A) produces gender conflict and tribalism (4C, 4E) as people experiencing the same structural pressures are given cultural frameworks that blame each other. This tribalization prevents cross-class solidarity, which prevents political power sufficient to reform root causes (1A), which allows the economic precarity to continue.",
+      "description_experiential": "The same economic pressure that hits men and women, rural and urban workers, workers of different races — the same pressure produces conflict between these groups instead of solidarity. The conflict is not invented: the stress is real, the cultural frameworks that redirect the stress at each other are real, and the algorithmic amplification is real. But the structural cause is shared. A divided working class cannot organize around what it has in common. And that inability protects the conditions that produce the division.",
+      "historical_note": "The Division Lock has been temporarily interrupted when labor movements, civil rights movements, and populist movements successfully built cross-demographic solidarity around shared economic interests. These moments have been exceptional and have typically required sustained organizing that explicitly addressed the cultural frameworks dividing potential allies."
+    }
+  ],
+  "solidarity_map": [
+    {
+      "id": "solidarity-rural-urban",
+      "group_a": "Rural working-class conservative",
+      "group_b": "Urban working-class progressive",
+      "shared_nodes": [
+        "2A",
+        "2B",
+        "2C",
+        "3C",
+        "3D",
+        "5B"
+      ],
+      "description_analytical": "Both populations experience wage stagnation, job precarity, housing unaffordability, community anchor collapse, political disenfranchisement, and mental health crisis at comparable rates. The geographic and cultural context differs substantially. The structural causes are identical.",
+      "description_experiential": "A rural Trump voter in Ohio and a progressive renter in Detroit share a landlord they can't negotiate with, wages that haven't kept up, a political system that doesn't respond, and a sense that the future belongs to someone else. They have different explanations for why, and different cultural communities to belong to. The thing that is happening to them — economically — is the same thing."
+    },
+    {
+      "id": "solidarity-men-women",
+      "group_a": "Working-class men",
+      "group_b": "Working-class women",
+      "shared_nodes": [
+        "2A",
+        "2C",
+        "2D",
+        "4A",
+        "4B"
+      ],
+      "description_analytical": "Both populations experience wage stagnation, housing unaffordability, childcare and education cost crises, isolation, and identity disruption from economic precarity. The cultural and material expression of these shared conditions differs by gender. Algorithms sort both populations into frameworks that identify the other gender as the cause.",
+      "description_experiential": "A man who's lost economic status and a woman who's economically independent but unable to form a stable partnership are both navigating wreckage from the same economic forces. They've been given cultural frameworks that point at each other as the explanation. The actual explanation — wages that don't support family formation, housing that costs too much, childcare that forces someone out of the workforce — is upstream of both of them."
+    },
+    {
+      "id": "solidarity-nativeborn-immigrant",
+      "group_a": "Native-born working class",
+      "group_b": "Immigrant working class",
+      "shared_nodes": [
+        "2A",
+        "2B",
+        "1B",
+        "3B"
+      ],
+      "description_analytical": "Both populations face wage suppression, job precarity, exploitation by employers operating under financialization logic, and inadequate safety nets. Immigration does affect wages in specific sectors under specific conditions — this is not simply scapegoating. The structural argument is that the same forces (1B, 1C, 2B) create conditions for labor competition between these groups, and that competition is then routed into inter-group conflict that serves those who benefit from divided labor.",
+      "description_experiential": "A native-born worker and an immigrant worker doing similar work face the same employer who wants to pay as little as possible, the same lack of safety net, the same job insecurity. The labor market pressure is real and not simple. But the force creating that pressure — an economic system that wants labor to compete — benefits from keeping the two groups focused on each other instead of on the system."
+    },
+    {
+      "id": "solidarity-white-poc",
+      "group_a": "White working class",
+      "group_b": "Working-class people of color",
+      "shared_nodes": [
+        "1A",
+        "1B",
+        "1C",
+        "2A",
+        "2B",
+        "2F"
+      ],
+      "description_analytical": "Racism creates real and meaningful differences in how economic precarity is experienced — in hiring, housing, policing, healthcare, and criminal justice. These differences are real and must not be minimized. The underlying economic forces (1A, 1B, 1C) affect the entire working class. Node 2H documents the specific historical mechanisms that create additional structural disadvantage for working-class people of color beyond the shared economic forces. Both things are true simultaneously.",
+      "description_experiential": "A white working-class family and a Black working-class family are both downstream of the same wealth concentration, the same financialization, the same wage suppression. The Black family carries the additional weight of a racial wealth gap built by specific historical policy — less cushion, more exposure to every economic shock. Both are being squeezed by the same forces. The squeeze lands differently. Naming both truths is more accurate than choosing one."
+    }
+  ],
+  "find_your_pain": [
+    {
+      "id": "fyp-rent",
+      "label_analytical": "Housing unaffordability",
+      "label_experiential": "I can't afford rent / housing",
+      "primary_node": "2C",
+      "also_look_at": [
+        "1B",
+        "1A",
+        "2A"
+      ]
+    },
+    {
+      "id": "fyp-wages",
+      "label_analytical": "Wage stagnation",
+      "label_experiential": "My wages haven't gone up in years",
+      "primary_node": "2A",
+      "also_look_at": [
+        "1A",
+        "1B",
+        "3A"
+      ]
+    },
+    {
+      "id": "fyp-student-debt",
+      "label_analytical": "Education cost and student debt",
+      "label_experiential": "I'm drowning in student debt",
+      "primary_node": "2D",
+      "also_look_at": [
+        "1B",
+        "1C",
+        "2F"
+      ]
+    },
+    {
+      "id": "fyp-medical",
+      "label_analytical": "Healthcare as financial catastrophe",
+      "label_experiential": "One medical bill wrecked my finances",
+      "primary_node": "2E",
+      "also_look_at": [
+        "1B",
+        "1C",
+        "2F"
+      ]
+    },
+    {
+      "id": "fyp-job",
+      "label_analytical": "Job loss and precarity",
+      "label_experiential": "My job disappeared / feels unstable",
+      "primary_node": "2B",
+      "also_look_at": [
+        "1B",
+        "1D",
+        "1E"
+      ]
+    },
+    {
+      "id": "fyp-town",
+      "label_analytical": "Community economic collapse",
+      "label_experiential": "My town feels dead / everyone left",
+      "primary_node": "3C",
+      "also_look_at": [
+        "1D",
+        "1B",
+        "2G"
+      ]
+    },
+    {
+      "id": "fyp-voting",
+      "label_analytical": "Political disenfranchisement",
+      "label_experiential": "I feel like voting doesn't change anything",
+      "primary_node": "3D",
+      "also_look_at": [
+        "1C",
+        "1A"
+      ]
+    },
+    {
+      "id": "fyp-alone",
+      "label_analytical": "Social isolation",
+      "label_experiential": "I feel completely alone",
+      "primary_node": "4A",
+      "also_look_at": [
+        "3E",
+        "3C",
+        "2A"
+      ]
+    },
+    {
+      "id": "fyp-meaning",
+      "label_analytical": "Identity and meaning disruption",
+      "label_experiential": "I don't know what my life is for",
+      "primary_node": "4B",
+      "also_look_at": [
+        "3A",
+        "3C",
+        "1D"
+      ]
+    },
+    {
+      "id": "fyp-gender",
+      "label_analytical": "Gender conflict",
+      "label_experiential": "Men and women are at war",
+      "primary_node": "4C",
+      "also_look_at": [
+        "4B",
+        "4A",
+        "4D"
+      ]
+    },
+    {
+      "id": "fyp-hopeless",
+      "label_analytical": "Learned helplessness",
+      "label_experiential": "Everything feels hopeless",
+      "primary_node": "5A",
+      "also_look_at": [
+        "2A",
+        "3D",
+        "2F"
+      ]
+    },
+    {
+      "id": "fyp-anxiety",
+      "label_analytical": "Mental health crisis",
+      "label_experiential": "I'm anxious / depressed all the time",
+      "primary_node": "5B",
+      "also_look_at": [
+        "4A",
+        "2E",
+        "5A"
+      ]
+    },
+    {
+      "id": "fyp-addiction",
+      "label_analytical": "Addiction and deaths of despair",
+      "label_experiential": "My community has an addiction problem",
+      "primary_node": "5C",
+      "also_look_at": [
+        "3C",
+        "4B",
+        "5A"
+      ]
+    },
+    {
+      "id": "fyp-angry",
+      "label_analytical": "Tribalism and misdirected anger",
+      "label_experiential": "I'm angry but I don't know at who",
+      "primary_node": "4E",
+      "also_look_at": [
+        "4D",
+        "4B",
+        "3D"
+      ]
+    },
+    {
+      "id": "fyp-rigged",
+      "label_analytical": "Regulatory capture and political corruption",
+      "label_experiential": "I feel like the system is rigged",
+      "primary_node": "1C",
+      "also_look_at": [
+        "1A",
+        "1B",
+        "3D"
+      ]
+    },
+    {
+      "id": "fyp-kids",
+      "label_analytical": "Collapsing social mobility",
+      "label_experiential": "My kids will have it worse than me",
+      "primary_node": "5E",
+      "also_look_at": [
+        "2C",
+        "2D",
+        "1A"
+      ]
+    }
+  ]
+}
