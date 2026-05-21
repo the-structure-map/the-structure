@@ -81,8 +81,8 @@ All map content lives in `data/graph.json`. No content is hard-coded in the UI. 
 {
   "meta": { ... },
   "nodes": [ ... ],
-  "edges": [ ... ],
   "feedback_loops": [ ... ],
+  "feedback_edges": [ ... ],
   "solidarity_map": [ ... ],
   "find_your_pain": [ ... ]
 }
@@ -109,14 +109,18 @@ All map content lives in `data/graph.json`. No content is hard-coded in the UI. 
 
 Each node has two language registers — `label_analytical` / `label_experiential` and `body_analytical` / `body_experiential` — switched by the toggle in the UI.
 
+Causal, solidarity, and amplifies edges are derived at runtime from node fields (`downstream_effects`, `solidarity_connections`, `amplifies`). There is no separate edge list for these — the node is the single source of truth.
+
 ### Edge types
 
-| Type | Description |
-|---|---|
-| `causal` | Standard directed cause → effect relationship |
-| `feedback` | Back-edge; part of a named feedback loop |
-| `solidarity` | Dashed edge connecting nodes that affect different groups sharing root causes |
-| `amplifies` | Used by node 2H (Racial Wealth Gap) — intensifies effects without being a primary cause |
+| Type | Defined in | Description |
+|---|---|---|
+| `causal` | `downstream_effects` on each node | Standard directed cause → effect relationship |
+| `solidarity` | `solidarity_connections` on each node | Dashed edge connecting nodes that affect different groups sharing root causes |
+| `amplifies` | `amplifies` on each node | Intensifies effects without being a primary cause |
+| `feedback` | `feedback_edges[]` (explicit array) | Back-edge completing a named feedback loop; clickable |
+
+Feedback edges are the only type stored explicitly, because they run against the causal flow and cannot be derived from node fields.
 
 ### Layers
 
