@@ -22,7 +22,10 @@
         "2A",
         "2C",
         "2H",
-        "2I"
+        "2I",
+        "3B",
+        "3D",
+        "5E"
       ],
       "solidarity_connections": [
         "1B"
@@ -45,7 +48,9 @@
         "2C",
         "2E",
         "3C",
-        "3H"
+        "3H",
+        "2D",
+        "3A"
       ],
       "solidarity_connections": [
         "1A"
@@ -68,7 +73,14 @@
         "2G",
         "3A",
         "3D",
-        "2I"
+        "2I",
+        "1F",
+        "2A",
+        "2C",
+        "2D",
+        "2E",
+        "2H",
+        "3B"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -86,7 +98,10 @@
       "downstream_effects": [
         "2A",
         "3C",
-        "2I"
+        "2I",
+        "3A",
+        "3E",
+        "4B"
       ],
       "solidarity_connections": [
         "2H"
@@ -148,7 +163,8 @@
         "1D",
         "1E",
         "3A",
-        "2I"
+        "2I",
+        "2G"
       ],
       "downstream_effects": [
         "2B",
@@ -160,7 +176,13 @@
         "4B",
         "3F",
         "4F",
-        "3G"
+        "3G",
+        "3E",
+        "4C",
+        "5A",
+        "5B",
+        "5C",
+        "5E"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -178,12 +200,14 @@
         "1B",
         "1E",
         "1F",
-        "3A"
+        "3A",
+        "2A"
       ],
       "downstream_effects": [
         "2F",
         "4B",
-        "4F"
+        "4F",
+        "4C"
       ],
       "solidarity_connections": [
         "2I"
@@ -208,7 +232,10 @@
       ],
       "downstream_effects": [
         "4A",
-        "4F"
+        "4F",
+        "2F",
+        "4C",
+        "5E"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -247,7 +274,8 @@
       "affected_groups": "Uninsured and underinsured workers, anyone with a chronic condition, and working-class families without savings to absorb medical costs.",
       "upstream_causes": [
         "1B",
-        "1C"
+        "1C",
+        "2A"
       ],
       "downstream_effects": [
         "2F",
@@ -270,10 +298,12 @@
         "2B",
         "2C",
         "2D",
-        "2E"
+        "2E",
+        "3B"
       ],
       "downstream_effects": [
-        "5B"
+        "5B",
+        "5A"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -363,7 +393,9 @@
       ],
       "downstream_effects": [
         "2A",
-        "4B"
+        "4B",
+        "2B",
+        "4A"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -384,7 +416,8 @@
       "downstream_effects": [
         "2F",
         "5A",
-        "3F"
+        "3F",
+        "5E"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -409,7 +442,8 @@
         "4A",
         "5C",
         "3F",
-        "3G"
+        "3G",
+        "4B"
       ],
       "solidarity_connections": [
         "3D"
@@ -455,7 +489,8 @@
       ],
       "downstream_effects": [
         "4A",
-        "4D"
+        "4D",
+        "4E"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -541,11 +576,14 @@
         "3E",
         "3F",
         "4F",
-        "3G"
+        "3G",
+        "2D"
       ],
       "downstream_effects": [
         "4D",
-        "5B"
+        "5B",
+        "4C",
+        "4E"
       ],
       "solidarity_connections": [
         "4B"
@@ -568,12 +606,16 @@
         "3A",
         "3C",
         "4F",
-        "3G"
+        "3G",
+        "2A"
       ],
       "downstream_effects": [
         "4C",
         "5C",
-        "5D"
+        "5D",
+        "4D",
+        "4E",
+        "5B"
       ],
       "solidarity_connections": [
         "4A"
@@ -599,7 +641,8 @@
       ],
       "downstream_effects": [
         "5D",
-        "4F"
+        "4F",
+        "4D"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -617,7 +660,8 @@
         "4A",
         "4B",
         "4C",
-        "3H"
+        "3H",
+        "3E"
       ],
       "downstream_effects": [
         "4C",
@@ -688,11 +732,13 @@
         "2A",
         "2F",
         "3B",
-        "3D"
+        "3D",
+        "5E"
       ],
       "downstream_effects": [
         "5B",
-        "5D"
+        "5D",
+        "5C"
       ],
       "solidarity_connections": [],
       "amplifies": []
@@ -1428,229 +1474,229 @@
       "id": "e-1C-1F",
       "source": "1C",
       "target": "1F",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1C-2A",
       "source": "1C",
       "target": "2A",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-3A-2B",
       "source": "3A",
       "target": "2B",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1C-2C",
       "source": "1C",
       "target": "2C",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1B-2D",
       "source": "1B",
       "target": "2D",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1C-2D",
       "source": "1C",
       "target": "2D",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1C-2E",
       "source": "1C",
       "target": "2E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2C-2F",
       "source": "2C",
       "target": "2F",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1C-2H",
       "source": "1C",
       "target": "2H",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1B-3A",
       "source": "1B",
       "target": "3A",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1D-3A",
       "source": "1D",
       "target": "3A",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1A-3B",
       "source": "1A",
       "target": "3B",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1C-3B",
       "source": "1C",
       "target": "3B",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1A-3D",
       "source": "1A",
       "target": "3D",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1D-3E",
       "source": "1D",
       "target": "3E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2A-3E",
       "source": "2A",
       "target": "3E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-3A-4A",
       "source": "3A",
       "target": "4A",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1D-4B",
       "source": "1D",
       "target": "4B",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-3C-4B",
       "source": "3C",
       "target": "4B",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2A-4C",
       "source": "2A",
       "target": "4C",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2B-4C",
       "source": "2B",
       "target": "4C",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2C-4C",
       "source": "2C",
       "target": "4C",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-4A-4C",
       "source": "4A",
       "target": "4C",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-4B-4D",
       "source": "4B",
       "target": "4D",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-4C-4D",
       "source": "4C",
       "target": "4D",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-3E-4E",
       "source": "3E",
       "target": "4E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-4A-4E",
       "source": "4A",
       "target": "4E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-4B-4E",
       "source": "4B",
       "target": "4E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2A-5A",
       "source": "2A",
       "target": "5A",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2F-5A",
       "source": "2F",
       "target": "5A",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2A-5B",
       "source": "2A",
       "target": "5B",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-4B-5B",
       "source": "4B",
       "target": "5B",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2A-5C",
       "source": "2A",
       "target": "5C",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-5A-5C",
       "source": "5A",
       "target": "5C",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-1A-5E",
       "source": "1A",
       "target": "5E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2A-5E",
       "source": "2A",
       "target": "5E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-2C-5E",
       "source": "2C",
       "target": "5E",
-      "type": "causal"
+      "edge_type": "causal"
     },
     {
       "id": "e-3B-5E",
       "source": "3B",
       "target": "5E",
-      "type": "causal"
+      "edge_type": "causal"
     }
   ],
   "feedback_loops": [
@@ -1698,6 +1744,24 @@
       "description_analytical": "Shared economic precarity (2A) produces gender conflict and tribalism (4C, 4E) as people experiencing the same structural pressures are given cultural frameworks that blame each other. This tribalization prevents cross-class solidarity, which prevents political power sufficient to reform root causes (1A), which allows the economic precarity to continue.",
       "description_experiential": "The same economic pressure that hits men and women, rural and urban workers, workers of different races — the same pressure produces conflict between these groups instead of solidarity. The conflict is not invented: the stress is real, the cultural frameworks that redirect the stress at each other are real, and the algorithmic amplification is real. But the structural cause is shared. A divided working class cannot organize around what it has in common. And that inability protects the conditions that produce the division.",
       "historical_note": "The Division Lock has been temporarily interrupted when labor movements, civil rights movements, and populist movements successfully built cross-demographic solidarity around shared economic interests. These moments have been exceptional and have typically required sustained organizing that explicitly addressed the cultural frameworks dividing potential allies."
+    }
+  ],
+  "feedback_edges": [
+    {
+      "source": "2F",
+      "target": "1A"
+    },
+    {
+      "source": "5A",
+      "target": "1C"
+    },
+    {
+      "source": "5D",
+      "target": "1A"
+    },
+    {
+      "source": "5D",
+      "target": "1C"
     }
   ],
   "solidarity_map": [

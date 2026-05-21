@@ -76,18 +76,12 @@ function warn(msg, val) {
 }
 
 function validate(d) {
-  const { nodes = [], edges = [], feedback_loops = [], solidarity_map = [], find_your_pain = [] } = d;
+  const { nodes = [], feedback_loops = [], feedback_edges = [], solidarity_map = [], find_your_pain = [] } = d;
 
   const nodeIds = new Set();
   for (const n of nodes) {
     if (nodeIds.has(n.id)) warn('Duplicate node ID', n.id);
     nodeIds.add(n.id);
-  }
-
-  const edgeIds = new Set();
-  for (const e of edges) {
-    if (edgeIds.has(e.id)) warn('Duplicate edge ID', e.id);
-    edgeIds.add(e.id);
   }
 
   for (const n of nodes) {
@@ -109,9 +103,9 @@ function validate(d) {
     }
   }
 
-  for (const e of edges) {
-    if (!nodeIds.has(e.source)) warn(`Unknown edge source in ${e.id}`, e.source);
-    if (!nodeIds.has(e.target)) warn(`Unknown edge target in ${e.id}`, e.target);
+  for (const fe of feedback_edges) {
+    if (!nodeIds.has(fe.source)) warn('Unknown feedback_edge source', fe.source);
+    if (!nodeIds.has(fe.target)) warn('Unknown feedback_edge target', fe.target);
   }
 
   for (const loop of feedback_loops) {

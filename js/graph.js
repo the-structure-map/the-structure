@@ -93,10 +93,39 @@ function buildElements(data, lang) {
     });
   }
 
-  for (const edge of data.edges) {
+  // Derive edges from node relationship fields
+  const solidarityPairs = new Set();
+  for (const node of data.nodes) {
+    for (const target of node.downstream_effects || []) {
+      elements.push({
+        group: 'edges',
+        data: { id: `e-${node.id}-${target}`, source: node.id, target, type: 'causal' }
+      });
+    }
+    for (const target of node.amplifies || []) {
+      elements.push({
+        group: 'edges',
+        data: { id: `e-${node.id}-${target}-amp`, source: node.id, target, type: 'amplifies' }
+      });
+    }
+    for (const target of node.solidarity_connections || []) {
+      const key = [node.id, target].sort().join('-');
+      if (!solidarityPairs.has(key)) {
+        solidarityPairs.add(key);
+        elements.push({
+          group: 'edges',
+          data: { id: `e-sol-${key}`, source: node.id, target, type: 'solidarity' }
+        });
+      }
+    }
+  }
+
+  // Feedback edges are stored explicitly in feedback_edges[]
+  // (feedback_loops describes loop narrative/UI — not used for edge rendering)
+  for (const fe of data.feedback_edges || []) {
     elements.push({
       group: 'edges',
-      data: { id: edge.id, source: edge.source, target: edge.target, type: edge.type }
+      data: { id: `e-fb-${fe.source}-${fe.target}`, source: fe.source, target: fe.target, type: 'feedback' }
     });
   }
 
