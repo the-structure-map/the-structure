@@ -51,6 +51,38 @@ function clearGraphFocusCursor() {
   _graphFocusCursorIdx = -1;
 }
 
+export function selectLoop(loopId) {
+  const cy = getCy();
+  const data = getGraphData();
+  const loop = data.feedback_loops.find(l => l.id === loopId);
+  if (!loop) return;
+
+  clearGraphFocusCursor();
+  hideFeedbackCallout();
+
+  const loopNodes = new Set(loop.node_sequence);
+
+  cy.batch(() => {
+    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at loop-member loop-edge hover graph-cursor');
+    cy.nodes().addClass('dimmed');
+    cy.edges().addClass('dimmed');
+
+    loopNodes.forEach(nodeId => {
+      const node = cy.$('#' + nodeId);
+      node.removeClass('dimmed').addClass('loop-member');
+    });
+
+    // Un-dim and highlight edges where both endpoints are in the loop sequence
+    cy.edges().forEach(edge => {
+      if (loopNodes.has(edge.data('source')) && loopNodes.has(edge.data('target'))) {
+        edge.removeClass('dimmed').addClass('loop-edge');
+      }
+    });
+  });
+
+  openLoopPanel(loopId, getLanguage());
+}
+
 export function initInteractions() {
   const cy = getCy();
 
@@ -286,6 +318,15 @@ export function initInteractions() {
     }
   });
 
+  // Delegate clicks on panel-loop-link buttons (loop membership in node cards)
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest('.panel-loop-link');
+    if (btn && btn.dataset.loopId) {
+      _savedCursorIdx = -1;
+      selectLoop(btn.dataset.loopId);
+    }
+  });
+
   // FYP trigger button
   document.getElementById('fyp-trigger').addEventListener('click', () => {
     if (isSidebarOpen()) {
@@ -364,7 +405,7 @@ function selectNode(nodeId) {
   clearGraphFocusCursor();
 
   cy.batch(() => {
-    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at hover graph-cursor');
+    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at loop-member loop-edge hover graph-cursor');
     cy.nodes().addClass('dimmed');
     cy.edges().addClass('dimmed');
 
@@ -403,7 +444,7 @@ function deselectAll() {
   const cy = getCy();
   clearGraphFocusCursor();
   cy.batch(() => {
-    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at graph-cursor');
+    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at loop-member loop-edge graph-cursor');
   });
 }
 
@@ -411,7 +452,7 @@ function navigateFromFyp(primaryNodeId, alsoLookAt) {
   const cy = getCy();
 
   cy.batch(() => {
-    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at hover');
+    cy.elements().removeClass('selected dimmed highlighted highlighted-inbound highlighted-outbound highlighted-solidarity also-look-at loop-member loop-edge hover');
     cy.nodes().addClass('dimmed');
     cy.edges().addClass('dimmed');
 

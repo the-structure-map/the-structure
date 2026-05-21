@@ -2,8 +2,8 @@
   "meta": {
     "title": "The Structure",
     "descriptor": "Why things are the way they are.",
-    "version": "1.2.1",
-    "last_updated": "2026-05-20",
+    "version": "1.2.4",
+    "last_updated": "2026-05-21",
     "default_language": "experiential"
   },
   "nodes": [
@@ -1765,6 +1765,14 @@
     },
     {
       "source": "4E",
+      "target": "1A"
+    },
+    {
+      "source": "1C",
+      "target": "1A"
+    },
+    {
+      "source": "4C",
       "target": "1A"
     }
   ],

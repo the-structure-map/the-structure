@@ -157,6 +157,19 @@ function renderPanel(nodeId, lang) {
     html += buildLinkSection(heading, node.solidarity_connections, data, lang);
   }
 
+  // 11. Feedback Loop Membership
+  const participatingLoops = (data.feedback_loops || []).filter(loop =>
+    loop.node_sequence.includes(nodeId)
+  );
+  if (participatingLoops.length > 0) {
+    html += `<div class="panel-section"><p class="panel-section-heading">Part of a Feedback Loop</p><div class="panel-node-links">`;
+    for (const loop of participatingLoops) {
+      const loopName = lang === 'analytical' ? loop.name_analytical : loop.name_experiential;
+      html += `<button class="panel-loop-link" data-loop-id="${esc(loop.id)}">This node is part of ${esc(loopName)} →</button>`;
+    }
+    html += `</div></div>`;
+  }
+
   getContentContainer().innerHTML = html;
 }
 

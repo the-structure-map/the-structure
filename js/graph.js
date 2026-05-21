@@ -286,6 +286,23 @@ function buildStyles() {
         'border-style': 'dashed',
         opacity: 0.7
       }
+    },
+    {
+      selector: 'node.loop-member',
+      style: {
+        'border-width': 2,
+        'border-color': '#C87941',
+        'z-index': 15
+      }
+    },
+    {
+      selector: 'edge.loop-edge',
+      style: {
+        'line-color': '#C87941',
+        'target-arrow-color': '#C87941',
+        opacity: 1,
+        width: 2.5
+      }
     }
   ];
 }

@@ -1,6 +1,6 @@
 import { initGraph, LAYER_COLORS } from './graph.js';
 import { initLanguage, getLanguage } from './toggle.js';
-import { initInteractions, syncToggleUI } from './interactions.js';
+import { initInteractions, syncToggleUI, selectLoop } from './interactions.js';
 import './sidebar.js';
 
 const DATA_URL = 'data/graph.json';
@@ -23,7 +23,11 @@ async function init() {
   initInteractions();
   syncToggleUI(lang);
 
-  renderLayerLegend(graphData);
+  renderLayerLegend(graphData, lang);
+
+  document.addEventListener('languagechange', (e) => {
+    updateLoopLegendLabels(graphData, e.detail.language);
+  });
 
   const footer = document.getElementById('footer-version');
   if (footer && graphData.meta) {
@@ -31,7 +35,7 @@ async function init() {
   }
 }
 
-function renderLayerLegend(graphData) {
+function renderLayerLegend(graphData, lang) {
   const legend = document.getElementById('layer-legend');
   if (!legend) return;
 
@@ -62,6 +66,46 @@ function renderLayerLegend(graphData) {
     item.appendChild(swatch);
     item.appendChild(label);
     legend.appendChild(item);
+  }
+
+  // Feedback loop entries
+  const loops = graphData.feedback_loops || [];
+  if (loops.length > 0) {
+    const divider = document.createElement('div');
+    divider.className = 'legend-divider';
+    divider.setAttribute('role', 'separator');
+    legend.appendChild(divider);
+
+    for (const loop of loops) {
+      const btn = document.createElement('button');
+      btn.className = 'legend-loop-item';
+      btn.setAttribute('role', 'listitem');
+      btn.dataset.loopId = loop.id;
+
+      const swatch = document.createElement('div');
+      swatch.className = 'legend-loop-swatch';
+
+      const label = document.createElement('span');
+      label.textContent = lang === 'analytical' ? loop.name_analytical : loop.name_experiential;
+
+      btn.appendChild(swatch);
+      btn.appendChild(label);
+      btn.addEventListener('click', () => selectLoop(loop.id));
+      legend.appendChild(btn);
+    }
+  }
+}
+
+function updateLoopLegendLabels(graphData, lang) {
+  const legend = document.getElementById('layer-legend');
+  if (!legend) return;
+  const loops = graphData.feedback_loops || [];
+  for (const loop of loops) {
+    const btn = legend.querySelector(`[data-loop-id="${loop.id}"]`);
+    if (btn) {
+      const label = btn.querySelector('span');
+      if (label) label.textContent = lang === 'analytical' ? loop.name_analytical : loop.name_experiential;
+    }
   }
 }
 
