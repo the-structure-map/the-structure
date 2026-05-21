@@ -833,6 +833,872 @@
       "amplifies": []
     }
   ],
+  "edges": [
+    {
+      "id": "e-1A-1C",
+      "source": "1A",
+      "target": "1C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1A-2A",
+      "source": "1A",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1A-2C",
+      "source": "1A",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1A-2H",
+      "source": "1A",
+      "target": "2H",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-2A",
+      "source": "1B",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-2B",
+      "source": "1B",
+      "target": "2B",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-2C",
+      "source": "1B",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-2E",
+      "source": "1B",
+      "target": "2E",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-3C",
+      "source": "1B",
+      "target": "3C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-2G",
+      "source": "1C",
+      "target": "2G",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-3A",
+      "source": "1C",
+      "target": "3A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-3D",
+      "source": "1C",
+      "target": "3D",
+      "type": "causal"
+    },
+    {
+      "id": "e-1D-2A",
+      "source": "1D",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1D-3C",
+      "source": "1D",
+      "target": "3C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1E-2A",
+      "source": "1E",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-1E-2B",
+      "source": "1E",
+      "target": "2B",
+      "type": "causal"
+    },
+    {
+      "id": "e-1E-4B",
+      "source": "1E",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-1F-2B",
+      "source": "1F",
+      "target": "2B",
+      "type": "causal"
+    },
+    {
+      "id": "e-1F-2C",
+      "source": "1F",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-1F-3C",
+      "source": "1F",
+      "target": "3C",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2B",
+      "source": "2A",
+      "target": "2B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2C",
+      "source": "2A",
+      "target": "2C",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2D",
+      "source": "2A",
+      "target": "2D",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2E",
+      "source": "2A",
+      "target": "2E",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-2F",
+      "source": "2A",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-4A",
+      "source": "2A",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-4B",
+      "source": "2A",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2B-2F",
+      "source": "2B",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2B-4B",
+      "source": "2B",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2C-4A",
+      "source": "2C",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2D-2F",
+      "source": "2D",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2D-4A",
+      "source": "2D",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2D-5E",
+      "source": "2D",
+      "target": "5E",
+      "type": "causal"
+    },
+    {
+      "id": "e-2E-2F",
+      "source": "2E",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2E-5B",
+      "source": "2E",
+      "target": "5B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2F-5B",
+      "source": "2F",
+      "target": "5B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2G-2A",
+      "source": "2G",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2G-3C",
+      "source": "2G",
+      "target": "3C",
+      "type": "causal"
+    },
+    {
+      "id": "e-2H-2A",
+      "source": "2H",
+      "target": "2A",
+      "type": "amplifies"
+    },
+    {
+      "id": "e-2H-2C",
+      "source": "2H",
+      "target": "2C",
+      "type": "amplifies"
+    },
+    {
+      "id": "e-2H-2E",
+      "source": "2H",
+      "target": "2E",
+      "type": "amplifies"
+    },
+    {
+      "id": "e-2H-2F",
+      "source": "2H",
+      "target": "2F",
+      "type": "amplifies"
+    },
+    {
+      "id": "e-2H-5E",
+      "source": "2H",
+      "target": "5E",
+      "type": "causal"
+    },
+    {
+      "id": "e-3A-2A",
+      "source": "3A",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3A-4B",
+      "source": "3A",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-3B-2F",
+      "source": "3B",
+      "target": "2F",
+      "type": "causal"
+    },
+    {
+      "id": "e-3B-5A",
+      "source": "3B",
+      "target": "5A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-3E",
+      "source": "3C",
+      "target": "3E",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-4A",
+      "source": "3C",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-5C",
+      "source": "3C",
+      "target": "5C",
+      "type": "causal"
+    },
+    {
+      "id": "e-3D-5A",
+      "source": "3D",
+      "target": "5A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3D-5D",
+      "source": "3D",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-3E-4A",
+      "source": "3E",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3E-4D",
+      "source": "3E",
+      "target": "4D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4A-4D",
+      "source": "4A",
+      "target": "4D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4A-5B",
+      "source": "4A",
+      "target": "5B",
+      "type": "causal"
+    },
+    {
+      "id": "e-4B-4C",
+      "source": "4B",
+      "target": "4C",
+      "type": "causal"
+    },
+    {
+      "id": "e-4B-5C",
+      "source": "4B",
+      "target": "5C",
+      "type": "causal"
+    },
+    {
+      "id": "e-4B-5D",
+      "source": "4B",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4C-5D",
+      "source": "4C",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4D-4C",
+      "source": "4D",
+      "target": "4C",
+      "type": "causal"
+    },
+    {
+      "id": "e-4D-4E",
+      "source": "4D",
+      "target": "4E",
+      "type": "causal"
+    },
+    {
+      "id": "e-4D-5D",
+      "source": "4D",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-4E-5D",
+      "source": "4E",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-5A-5B",
+      "source": "5A",
+      "target": "5B",
+      "type": "causal"
+    },
+    {
+      "id": "e-5A-5D",
+      "source": "5A",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-5B-5C",
+      "source": "5B",
+      "target": "5C",
+      "type": "causal"
+    },
+    {
+      "id": "e-5E-5A",
+      "source": "5E",
+      "target": "5A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2F-1A-feedback",
+      "source": "2F",
+      "target": "1A",
+      "type": "feedback"
+    },
+    {
+      "id": "e-5A-1C-feedback",
+      "source": "5A",
+      "target": "1C",
+      "type": "feedback"
+    },
+    {
+      "id": "e-5D-1A-feedback",
+      "source": "5D",
+      "target": "1A",
+      "type": "feedback"
+    },
+    {
+      "id": "e-5D-1C-feedback",
+      "source": "5D",
+      "target": "1C",
+      "type": "feedback"
+    },
+    {
+      "id": "e-solidarity-3C-3D",
+      "source": "3C",
+      "target": "3D",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-solidarity-4A-4B",
+      "source": "4A",
+      "target": "4B",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-solidarity-2B-2I",
+      "source": "2B",
+      "target": "2I",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-solidarity-1A-1B",
+      "source": "1A",
+      "target": "1B",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-solidarity-1D-2H",
+      "source": "1D",
+      "target": "2H",
+      "type": "solidarity"
+    },
+    {
+      "id": "e-2I-2A",
+      "source": "2I",
+      "target": "2A",
+      "type": "causal"
+    },
+    {
+      "id": "e-2I-4E",
+      "source": "2I",
+      "target": "4E",
+      "type": "causal"
+    },
+    {
+      "id": "e-1A-2I",
+      "source": "1A",
+      "target": "2I",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-2I",
+      "source": "1C",
+      "target": "2I",
+      "type": "causal"
+    },
+    {
+      "id": "e-1D-2I",
+      "source": "1D",
+      "target": "2I",
+      "type": "causal"
+    },
+    {
+      "id": "e-3F-4A",
+      "source": "3F",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3F-4E",
+      "source": "3F",
+      "target": "4E",
+      "type": "causal"
+    },
+    {
+      "id": "e-3F-5D",
+      "source": "3F",
+      "target": "5D",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-3F",
+      "source": "2A",
+      "target": "3F",
+      "type": "causal"
+    },
+    {
+      "id": "e-3B-3F",
+      "source": "3B",
+      "target": "3F",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-3F",
+      "source": "3C",
+      "target": "3F",
+      "type": "causal"
+    },
+    {
+      "id": "e-3G-4A",
+      "source": "3G",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-3G-4B",
+      "source": "3G",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-3G",
+      "source": "2A",
+      "target": "3G",
+      "type": "causal"
+    },
+    {
+      "id": "e-3C-3G",
+      "source": "3C",
+      "target": "3G",
+      "type": "causal"
+    },
+    {
+      "id": "e-3H-3D",
+      "source": "3H",
+      "target": "3D",
+      "type": "causal"
+    },
+    {
+      "id": "e-3H-4D",
+      "source": "3H",
+      "target": "4D",
+      "type": "causal"
+    },
+    {
+      "id": "e-3H-4E",
+      "source": "3H",
+      "target": "4E",
+      "type": "causal"
+    },
+    {
+      "id": "e-1B-3H",
+      "source": "1B",
+      "target": "3H",
+      "type": "causal"
+    },
+    {
+      "id": "e-1E-3H",
+      "source": "1E",
+      "target": "3H",
+      "type": "causal"
+    },
+    {
+      "id": "e-2G-3H",
+      "source": "2G",
+      "target": "3H",
+      "type": "causal"
+    },
+    {
+      "id": "e-4F-4A",
+      "source": "4F",
+      "target": "4A",
+      "type": "causal"
+    },
+    {
+      "id": "e-4F-4B",
+      "source": "4F",
+      "target": "4B",
+      "type": "causal"
+    },
+    {
+      "id": "e-4F-5E",
+      "source": "4F",
+      "target": "5E",
+      "type": "causal"
+    },
+    {
+      "id": "e-2A-4F",
+      "source": "2A",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2B-4F",
+      "source": "2B",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2C-4F",
+      "source": "2C",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-2D-4F",
+      "source": "2D",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-4C-4F",
+      "source": "4C",
+      "target": "4F",
+      "type": "causal"
+    },
+    {
+      "id": "e-1C-1F",
+      "source": "1C",
+      "target": "1F",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1C-2A",
+      "source": "1C",
+      "target": "2A",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-3A-2B",
+      "source": "3A",
+      "target": "2B",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1C-2C",
+      "source": "1C",
+      "target": "2C",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1B-2D",
+      "source": "1B",
+      "target": "2D",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1C-2D",
+      "source": "1C",
+      "target": "2D",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1C-2E",
+      "source": "1C",
+      "target": "2E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2C-2F",
+      "source": "2C",
+      "target": "2F",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1C-2H",
+      "source": "1C",
+      "target": "2H",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1B-3A",
+      "source": "1B",
+      "target": "3A",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1D-3A",
+      "source": "1D",
+      "target": "3A",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1A-3B",
+      "source": "1A",
+      "target": "3B",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1C-3B",
+      "source": "1C",
+      "target": "3B",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1A-3D",
+      "source": "1A",
+      "target": "3D",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1D-3E",
+      "source": "1D",
+      "target": "3E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2A-3E",
+      "source": "2A",
+      "target": "3E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-3A-4A",
+      "source": "3A",
+      "target": "4A",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1D-4B",
+      "source": "1D",
+      "target": "4B",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-3C-4B",
+      "source": "3C",
+      "target": "4B",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2A-4C",
+      "source": "2A",
+      "target": "4C",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2B-4C",
+      "source": "2B",
+      "target": "4C",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2C-4C",
+      "source": "2C",
+      "target": "4C",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-4A-4C",
+      "source": "4A",
+      "target": "4C",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-4B-4D",
+      "source": "4B",
+      "target": "4D",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-4C-4D",
+      "source": "4C",
+      "target": "4D",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-3E-4E",
+      "source": "3E",
+      "target": "4E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-4A-4E",
+      "source": "4A",
+      "target": "4E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-4B-4E",
+      "source": "4B",
+      "target": "4E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2A-5A",
+      "source": "2A",
+      "target": "5A",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2F-5A",
+      "source": "2F",
+      "target": "5A",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2A-5B",
+      "source": "2A",
+      "target": "5B",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-4B-5B",
+      "source": "4B",
+      "target": "5B",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2A-5C",
+      "source": "2A",
+      "target": "5C",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-5A-5C",
+      "source": "5A",
+      "target": "5C",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-1A-5E",
+      "source": "1A",
+      "target": "5E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2A-5E",
+      "source": "2A",
+      "target": "5E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-2C-5E",
+      "source": "2C",
+      "target": "5E",
+      "edge_type": "causal"
+    },
+    {
+      "id": "e-3B-5E",
+      "source": "3B",
+      "target": "5E",
+      "edge_type": "causal"
+    }
+  ],
   "feedback_loops": [
     {
       "id": "loop-political-lock",
@@ -896,6 +1762,10 @@
     {
       "source": "5D",
       "target": "1C"
+    },
+    {
+      "source": "4E",
+      "target": "1A"
     }
   ],
   "solidarity_map": [

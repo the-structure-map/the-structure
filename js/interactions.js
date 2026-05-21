@@ -105,7 +105,8 @@ export function initInteractions() {
     hideFeedbackCallout();
     const edge = evt.target;
     const data = getGraphData();
-    const loop = findLoopForEdge(edge.data('source'), edge.data('target'), data);
+    const loop = findLoopForEdge(edge.data('source'), edge.data('target'), data)
+      || buildFeedbackStub(edge.data('source'), edge.data('target'), data);
     if (!loop) return;
     // Use click position if available, otherwise compute from edge midpoint
     const pos = evt.renderedPosition || (() => {
@@ -121,7 +122,7 @@ export function initInteractions() {
   document.getElementById('feedback-callout-expand').addEventListener('click', () => {
     const loopId = _calloutLoopId;
     hideFeedbackCallout();
-    if (loopId) openLoopPanel(loopId, getLanguage());
+    if (loopId && loopId !== '__stub__') openLoopPanel(loopId, getLanguage());
   });
 
   // Update callout content on language change
@@ -495,12 +496,31 @@ function findLoopForEdge(source, target, data) {
     const seq = loop.node_sequence;
     if (seq.includes(source) && seq.includes(target)) return loop;
   }
-  return null; // no match — caller guards with: if (!loop) return;
+  return null;
+}
+
+// For feedback edges not covered by a named loop — show what we know from the nodes themselves.
+// Uses a sentinel ID '__stub__' so hideFeedbackCallout works correctly (it guards on _calloutLoopId).
+function buildFeedbackStub(source, target, data) {
+  const srcNode = data.nodes.find(n => n.id === source);
+  const tgtNode = data.nodes.find(n => n.id === target);
+  if (!srcNode || !tgtNode) return null;
+  return {
+    id: '__stub__',
+    name_analytical: 'Feedback Relationship',
+    name_experiential: 'Feedback Relationship',
+    description_analytical: `${srcNode.label_analytical} reinforces ${tgtNode.label_analytical} — a feedback that tightens the structural pressure upstream.`,
+    description_experiential: `${srcNode.label_experiential} feeds back into ${tgtNode.label_experiential} — the downstream effect makes the upstream cause worse.`,
+    node_sequence: [source, target]
+  };
 }
 
 function showFeedbackCallout(loop, renderedPos) {
   _calloutLoopId = loop.id;
   updateCalloutContent(loop, getLanguage());
+  // Hide the expand button for stubs (no named loop panel to open)
+  const expandBtn = document.getElementById('feedback-callout-expand');
+  if (expandBtn) expandBtn.style.display = (loop.id && loop.id !== '__stub__') ? '' : 'none';
 
   const callout = document.getElementById('feedback-callout');
   const cyEl = document.getElementById('cy');
